@@ -1,0 +1,113 @@
+payment_amount,customer_id,first_name,last_name,city
+829.95,1809,Mary,Smith,Caguas
+1974.91,11099,Mary,Harris,"La Mirada"
+609.97,4580,Charles,Smith,Astoria
+299.98,9189,Richard,Smith,Caguas
+969.8900000000001,1293,Mary,Carey,Methuen
+1599.6000000000004,3326,Mary,Smith,Elmhurst
+279.96,2039,Mary,Key,Brentwood
+489.94,9591,Mary,Gonzalez,Sunnyvale
+1509.8000000000002,5189,Frank,Elliott,Philadelphia
+150.0,1570,Mary,Smith,"Los Angeles"
+200.0,820,Mary,Brown,Caguas
+39.99,10995,Joe,Juarez,Miami
+619.86,3955,Bryan,Stanton,Yonkers
+944.8100000000001,3233,Mary,West,Caguas
+849.9000000000001,9778,Kathy,Maddox,Oceanside
+239.96,3936,Mary,Fernandez,Caguas
+829.8700000000001,5619,Mary,Smith,Potomac
+99.99,1858,William,Greene,Caguas
+519.9200000000001,10328,Mary,Smith,Dallas
+1099.84,659,Mary,Smith,Greenville
+1929.8700000000001,5693,Amber,Smith,Lockport
+599.9100000000001,10781,Andrea,Smith,Hialeah
+239.96,10286,Wayne,Curtis,Laredo
+2269.76,3543,Matthew,Rasmussen,Reseda
+1164.89,10616,Mary,Little,Caguas
+859.91,5782,Mary,Hardin,Caguas
+2978.79,2469,Shawn,Smith,Caguas
+429.97,9075,Scott,Hayes,Caguas
+229.99,10048,Mary,Cooke,Caguas
+2514.75,3908,Alexander,Smith,Lakewood
+974.85,5392,Ann,James,Caguas
+1866.7800000000002,6086,Mary,Hutchinson,"Pompano Beach"
+1179.7,9303,Mary,Bentley,Dallas
+100.0,8862,William,Dawson,Zanesville
+849.97,11370,James,Ray,Caguas
+250.0,3349,Lauren,Smith,"San Diego"
+1599.8500000000001,1413,Mary,Mcguire,Chicago
+1469.8600000000001,916,Mary,Smith,Caguas
+229.95999999999998,4860,Mary,Wiggins,Aurora
+1199.8200000000002,6543,Alexander,Smith,Caguas
+1519.7900000000002,2880,Linda,Walters,"San Antonio"
+2099.78,8701,Linda,Green,Troy
+2289.8599999999997,12329,Scott,Norman,Caguas
+299.95,11068,Roger,Smith,Longmont
+1309.8300000000002,6093,Douglas,Jacobs,"Santa Ana"
+2371.7200000000003,433,Mary,Smith,"Las Vegas"
+1719.7200000000003,7050,Mary,Holloway,Porterville
+979.82,7904,Mary,Smith,Caguas
+1659.7800000000002,7787,Robert,Christensen,Highland
+988.94,5653,Jean,Schultz,Lancaster
+1959.7500000000002,4914,Mary,Curtis,Caguas
+819.86,4293,Mary,Stanley,Caguas
+839.8800000000001,683,Mary,Delgado,Harlingen
+959.9100000000001,6535,Brittany,Cummings,Caguas
+399.98,3618,Linda,Evans,Caguas
+1089.8700000000001,6245,Margaret,Taylor,Caguas
+1709.7600000000002,1295,Theresa,Lopez,Winnetka
+129.99,10837,Mary,Dudley,Caguas
+1859.8700000000001,10486,Ronald,Ballard,Chicago
+249.98,11006,Mary,Pruitt,Mililani
+1954.8000000000002,6973,Mary,Krause,"Chula Vista"
+831.88,4344,Justin,Smith,Caguas
+829.8700000000001,9764,John,Smith,"San Sebastian"
+2737.63,3506,Samantha,Graham,Phoenix
+1399.93,7917,Ashley,Palmer,Dallas
+639.9300000000001,4669,Robert,Smith,Humacao
+1554.91,4893,William,Smith,Caguas
+129.99,8483,Mary,Smith,Caguas
+1639.7800000000002,3289,Mary,Adkins,Rialto
+1379.8400000000001,8593,Jacqueline,Smith,Caguas
+2334.75,10358,Larry,Alvarez,Caguas
+199.92,8142,Mary,Fields,Clovis
+2059.75,11348,Beverly,Roberts,"Granite City"
+229.95,6666,Jean,Austin,Painesville
+1439.9,7205,Maria,Jordan,Carrollton
+599.95,1219,Angela,Freeman,Detroit
+429.99,9310,Timothy,Smith,Caguas
+629.94,9517,Angela,Vargas,Caguas
+3809.65,4116,Mary,Smith,Elgin
+1559.81,7342,Julia,Hicks,Greeley
+1659.8700000000001,9575,John,Richards,Azusa
+1609.8100000000002,6504,Mary,Herman,Jacksonville
+1349.8700000000001,11861,Brittany,Bentley,"Saint Paul"
+1569.6800000000003,6757,Mary,Freeman,Caguas
+1139.93,972,Mary,Smith,Caguas
+2861.55,9928,Mary,Smith,Aurora
+339.96000000000004,7727,Evelyn,Smith,Eugene
+34.99,2821,Mary,Williams,"Santa Ana"
+1314.8500000000001,4684,Ann,Smith,"San Ramon"
+2609.8200000000006,667,Mary,Smith,Caguas
+979.95,10688,Pamela,Rivers,Caguas
+1079.8899999999999,5302,Betty,Smith,Medford
+119.97,2486,Anna,Mcdonald,Philadelphia
+2973.6499999999996,12045,Jeffrey,Ryan,Carlisle
+1676.8000000000002,6248,Ronald,Hanson,"Union City"
+2799.5999999999995,3951,Michael,Smith,Caguas
+429.98,7614,Paul,Martin,Caguas
+1379.92,673,James,Smith,"Chula Vista"
+1639.8500000000001,11160,Rachel,Smith,"Long Beach"
+2609.7400000000002,3337,Jeffrey,Smith,Baltimore
+1534.8100000000002,7853,Aaron,Smith,Caguas
+439.95000000000005,8121,Marie,Henry,Portland
+1213.81,3649,Andrew,Nguyen,"Union City"
+699.97,3972,Laura,Bennett,Caguas
+473.94000000000005,11802,Mary,Lindsey,Caguas
+1279.8600000000001,11432,Mary,Harper,Stockton
+1809.73,10497,Justin,Pena,Caguas
+1219.8700000000001,421,Mary,Smith,"San Ramon"
+399.98,1026,Mary,Smith,Ontario
+1099.85,9324,Willie,Parker,Madison
+587.97,6605,Mary,Branch,Philadelphia
+549.95,10729,Mary,Phillips,Caguas

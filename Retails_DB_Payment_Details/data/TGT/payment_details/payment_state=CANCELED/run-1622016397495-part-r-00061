@@ -1,0 +1,20 @@
+payment_amount,customer_id,first_name,last_name,city
+189.98000000000002,4862,Mary,Whitaker,Chicago
+119.98,5406,Mary,Whitehead,Algonquin
+805.87,12056,Jacob,Perkins,Caguas
+499.97,5236,Jessica,Roberts,Caguas
+459.97,6578,Roger,Smith,Laredo
+1016.95,11630,Mary,Clark,Miami
+769.88,10972,Mary,Smith,Caguas
+579.93,12287,Robert,Lee,Caguas
+609.9300000000001,10980,Victoria,Bowen,Chicago
+1009.8800000000001,10861,Barbara,Walters,Caguas
+599.9300000000001,8051,Emily,Hutchinson,Caguas
+819.87,9294,Mary,Blackwell,Caguas
+649.87,2532,Charles,Smith,Carrollton
+599.97,7158,Mary,Todd,Caguas
+379.93000000000006,5770,Brandon,Johnson,Clovis
+509.88,1665,Barbara,Smith,Caguas
+569.88,4364,Samantha,Anderson,"Los Angeles"
+359.96000000000004,8050,Elizabeth,Smith,"Fort Worth"
+1239.91,10678,Martha,Prince,Amarillo

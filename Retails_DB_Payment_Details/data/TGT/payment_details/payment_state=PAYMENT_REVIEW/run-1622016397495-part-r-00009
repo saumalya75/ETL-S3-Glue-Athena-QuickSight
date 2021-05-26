@@ -1,0 +1,11 @@
+payment_amount,customer_id,first_name,last_name,city
+399.9,10182,Andrew,Bennett,"San Diego"
+1029.76,7436,Megan,Taylor,Fairfield
+199.99,1672,Emily,Haley,"San Bernardino"
+689.95,9924,Christine,Smith,"Daly City"
+949.96,8759,Terry,Hodges,"Los Angeles"
+989.9100000000001,2252,Mary,Smith,Bronx
+250.0,1859,Charles,Smith,Milwaukee
+789.95,3041,Mary,Jones,Chicago
+99.99,4083,Betty,Smith,Wyandotte
+549.89,8978,Emily,Maxwell,"North Hills"

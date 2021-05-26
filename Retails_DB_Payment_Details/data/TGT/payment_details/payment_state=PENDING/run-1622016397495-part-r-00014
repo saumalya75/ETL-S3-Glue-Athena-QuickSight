@@ -1,0 +1,59 @@
+payment_amount,customer_id,first_name,last_name,city
+934.85,6211,Nicholas,Dyer,Lynwood
+199.95,2053,Ronald,Smith,Caguas
+1699.8400000000001,10136,Cynthia,Becker,Caguas
+759.8800000000001,2106,Mary,Grimes,Aurora
+1059.91,3978,Barbara,Simmons,Walnut
+479.95000000000005,2859,Mary,Pope,Carrollton
+729.96,1840,Jerry,Smith,Caguas
+594.97,1776,Mary,Howard,Glendale
+629.94,5096,Mary,Smith,Caguas
+449.96000000000004,5443,Mary,Smith,Greeley
+50.0,7143,Mary,Burnett,Brooklyn
+299.97,3381,Lisa,Smith,Portland
+759.91,552,Mary,Harper,"Los Angeles"
+929.95,4721,Scott,Keith,Chicago
+200.0,10851,Dylan,Stephens,"Saint Charles"
+299.95,4134,Johnny,Smith,Caguas
+1304.95,5727,Mary,Smith,Cleveland
+715.9000000000001,4160,Amy,Ryan,Caguas
+250.0,3925,Mary,Hicks,Brooklyn
+409.95,3806,Adam,Carson,Upland
+1649.7700000000002,6797,Mary,Thomas,Caguas
+449.96000000000004,7164,Paul,Miller,"Huntington Station"
+999.9200000000001,7514,Heather,Clarke,Caguas
+399.96,12050,Mary,Smith,Bronx
+1079.91,11572,Mary,Salazar,Caguas
+379.99,1912,Robert,Nunez,Caguas
+409.96000000000004,3214,Kevin,Bowers,Caguas
+789.9200000000001,2674,John,Smith,Caguas
+1129.91,9936,Scott,Espinoza,Anaheim
+729.95,212,Roger,Johnson,"South Ozone Park"
+59.99,9764,John,Smith,"San Sebastian"
+529.97,8052,Pamela,Smith,"La Mesa"
+129.99,3679,Mary,Carpenter,"New York"
+864.9000000000001,10717,Kelly,Smith,Caguas
+779.9300000000001,2660,Mary,Schwartz,Caguas
+859.94,3784,Mary,Sharp,Caguas
+1459.8600000000001,1034,Mary,Smith,Merced
+969.8100000000001,1089,Mary,Hamilton,Raleigh
+499.98,697,Harold,Pratt,Washington
+429.97,272,Mary,Long,Caguas
+899.9100000000001,2560,Mary,Gilmore,Caguas
+539.91,9373,Mary,Smith,Brooklyn
+1039.9,11065,Aaron,Smith,"New York"
+339.95,5229,Thomas,Butler,Caguas
+239.91,1493,Mary,Smith,Caguas
+959.8800000000001,11105,Jason,Lewis,Houston
+229.95,5587,Brandon,Williams,Bayamon
+271.97,957,Eric,Jones,Stockton
+1239.81,7971,William,Smith,Annandale
+1549.9,5144,Mary,Montoya,Miami
+2184.87,7211,Kathleen,Smith,Littleton
+629.89,323,Joshua,Smith,"New York"
+299.98,10146,Andrew,Smith,Anaheim
+959.8299999999999,8691,Mary,Hart,Guaynabo
+2189.7400000000002,9073,Thomas,Skinner,Bayamon
+429.91999999999996,11784,Mary,Cunningham,Caguas
+389.88,11982,Ethan,Johnson,Caguas
+532.8299999999999,12279,Mary,Dunn,Caguas

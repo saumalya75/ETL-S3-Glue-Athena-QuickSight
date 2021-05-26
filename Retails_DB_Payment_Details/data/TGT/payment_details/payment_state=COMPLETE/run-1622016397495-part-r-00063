@@ -1,0 +1,111 @@
+payment_amount,customer_id,first_name,last_name,city
+859.9300000000001,11246,Mary,Smith,Howell
+1129.94,9508,Alan,Smith,"Los Angeles"
+649.97,8969,Sandra,Bennett,Carrollton
+2419.6200000000003,9831,Daniel,Smith,Hagerstown
+769.9200000000001,8797,Lisa,Edwards,Bakersfield
+3339.4600000000005,3297,Bryan,Lewis,"Moreno Valley"
+1419.8600000000001,11928,Sharon,Chambers,Bolingbrook
+199.98,12297,Mary,Simpson,Lenoir
+324.98,12103,Mary,Smith,"San Benito"
+629.91,4623,Jessica,Smith,Arecibo
+2719.64,5019,Mary,Smith,Caguas
+559.97,4853,Mary,Miller,Caguas
+1492.8000000000002,9031,Mary,Brown,Philadelphia
+619.94,8644,Kenneth,Smith,Englewood
+129.99,11021,Brenda,Shaw,Caguas
+399.98,9066,Mary,Williams,Lawrence
+1069.91,11227,Mary,Coleman,Orlando
+399.89,4862,Mary,Whitaker,Chicago
+739.9200000000001,7337,Mary,Smith,Caguas
+299.97,11976,Robert,Smith,Detroit
+1259.8400000000001,11801,Shirley,Smith,Chicago
+249.99,4644,Mary,Dixon,Caguas
+699.97,12046,Joyce,Smith,Mesa
+859.95,9151,Aaron,Smith,Potomac
+1059.8600000000001,8750,Mary,Smith,Vista
+549.89,7661,Linda,Rojas,Dallas
+179.97,11784,Mary,Cunningham,Caguas
+599.9,3600,Jennifer,Smith,"Moreno Valley"
+855.8400000000001,8785,Mary,Arellano,"New York"
+2024.8300000000002,7245,Mary,Peters,Caguas
+1479.8700000000001,9603,Mary,Moore,Campbell
+69.98,3896,Alexander,Smith,Orlando
+329.98,310,Mary,Fox,York
+2567.65,6569,Samantha,Allen,Caguas
+1459.92,1590,Mary,Smith,Katy
+899.9100000000001,11726,Gloria,Smith,Caguas
+499.95,7035,Mary,Ayers,Caguas
+119.97,6945,Mary,Smith,Richmond
+1019.7900000000001,8357,Crystal,Benjamin,Caguas
+2724.7,2118,Mary,Smith,Lakewood
+659.94,3306,Mary,Woods,"New York"
+3554.4399999999996,11065,Aaron,Smith,"New York"
+329.98,10075,Tammy,Smith,Azusa
+649.87,3882,Joshua,Campbell,Greensburg
+909.8900000000001,603,Austin,Smith,Fresno
+1429.8400000000001,6906,Rebecca,Watkins,Dallas
+1049.95,703,Joan,Kelly,Miami
+1649.8600000000001,5241,Emily,Jacobs,Germantown
+1889.7800000000002,7177,Keith,Wong,Caguas
+969.88,1705,Mary,Smith,Orlando
+719.95,5143,Mark,Smith,Caguas
+909.96,1030,Mary,Burnett,"Colorado Springs"
+829.8800000000001,4705,Mary,Smith,Caguas
+299.98,8693,Mary,Madden,Caguas
+250.0,8242,Mary,Harris,Caguas
+907.9000000000001,6766,Mary,Smith,"Fort Washington"
+809.9200000000001,1598,Mary,Green,"Rego Park"
+1759.7600000000002,9590,Adam,Smith,Caguas
+179.97,4810,Mary,Smith,"El Paso"
+1209.84,7392,Benjamin,Trevino,Philadelphia
+549.97,522,William,Smith,Caguas
+1161.8400000000001,7599,Gerald,Smith,Caguas
+624.9200000000001,2944,Mary,Kelley,Salinas
+739.84,953,Mary,Mills,Philadelphia
+2482.51,12107,Sharon,Patterson,Caguas
+479.95000000000005,11492,Evelyn,Allen,"Bowling Green"
+2019.74,184,Mary,Boyd,Lindenhurst
+1539.79,4502,Ruth,Smith,Caguas
+1793.79,3314,Charles,Smith,Caguas
+1869.89,1785,Mary,Smith,Caguas
+1085.85,7652,Mary,Guerrero,Caguas
+489.91,2502,Mary,Smith,"Long Beach"
+599.96,1395,Lori,Lucero,"Santa Ana"
+1149.91,8188,Timothy,Smith,"Las Vegas"
+469.91,5513,Mary,Smith,Caguas
+1649.8400000000001,6206,Mary,Patton,Cerritos
+1299.93,1684,Anna,Smith,Caguas
+3319.7,4159,Mary,Castillo,Laredo
+1629.82,6788,Mary,Allen,"Lake Forest"
+679.9200000000001,2575,Mary,Carroll,Pomona
+1099.92,5373,Patricia,Serrano,Houston
+1009.8900000000001,12393,Mary,Smith,Manati
+1803.7400000000002,10312,Evelyn,Lowe,"El Paso"
+1119.91,8259,Mary,Smith,Caguas
+459.91,8384,Robert,Hall,"Opa Locka"
+1379.85,8296,Mary,Smith,Detroit
+379.99,1437,Mary,Watson,Caguas
+1409.8400000000001,12067,Mary,Contreras,"Rowland Heights"
+289.95000000000005,4136,John,Estrada,Caguas
+159.95,3047,Barbara,Smith,Caguas
+369.92,9068,Mary,Smith,Caguas
+573.9300000000001,10833,Mary,Smith,Dundalk
+1123.92,5106,Dylan,Rivera,Atlanta
+394.97,11803,Katherine,Smith,Salina
+649.9200000000001,7662,Tiffany,Parsons,Caguas
+2104.6800000000003,2838,Mary,Carter,Caguas
+1199.8300000000002,7994,Ralph,Smith,Caguas
+1545.71,7523,Margaret,Villa,"San Antonio"
+1809.8400000000001,2358,Mary,Smith,"Rio Rancho"
+521.9399999999999,3942,Stephanie,Smith,"Los Angeles"
+1429.93,7587,Mary,Barnett,Caguas
+2379.73,3328,Mary,Cannon,Chicago
+799.94,5488,Mary,Cisneros,Ontario
+2699.65,3552,Kathleen,Smith,"La Mesa"
+529.9,3704,Mary,Smith,Chandler
+669.88,10645,Julie,Mays,Brooklyn
+99.96,6053,David,Smith,Elmhurst
+179.94,4947,Mary,Hobbs,Hialeah
+1319.9,3380,Mary,Pitts,Detroit
+1109.85,155,Brittany,Juarez,Caguas

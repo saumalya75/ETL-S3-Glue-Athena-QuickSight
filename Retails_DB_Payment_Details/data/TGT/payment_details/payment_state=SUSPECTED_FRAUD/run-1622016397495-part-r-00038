@@ -1,0 +1,17 @@
+payment_amount,customer_id,first_name,last_name,city
+299.98,8374,Mary,Myers,Caguas
+459.95000000000005,5233,Mary,Sandoval,Houston
+599.9300000000001,7393,Mary,Smith,Caguas
+1461.7700000000002,5674,Ethan,Cross,"Ewa Beach"
+494.97,7075,Frank,Smith,"San Jose"
+419.86,9353,Michael,Scott,Caguas
+609.94,10807,Benjamin,Wilson,Caguas
+599.9300000000001,6899,Mary,Smith,Albuquerque
+1279.8000000000002,5907,Mary,Proctor,Caguas
+704.85,4917,Lauren,Campbell,Chicago
+1179.93,5834,Andrew,Fernandez,Caguas
+149.94,2078,Roger,Morales,"San Juan"
+359.97,7630,Judith,Smith,Opelousas
+819.9300000000001,6754,Beverly,Smith,Caguas
+95.97,11697,Jessica,Thomas,"Laguna Niguel"
+1079.85,6306,Donna,Browning,Caguas

@@ -1,0 +1,63 @@
+payment_amount,customer_id,first_name,last_name,city
+119.97,5698,Mary,Smith,Fremont
+119.97,12189,Judith,Hicks,"Ann Arbor"
+229.95999999999998,2124,Matthew,Montgomery,"Toms River"
+429.97,7708,Mary,Price,Philadelphia
+879.9100000000001,793,Mary,Smith,"San Antonio"
+929.95,3378,Mary,Torres,Caguas
+250.0,1946,Diane,Smith,Caguas
+579.98,124,Judy,Smith,Caguas
+99.96,7399,Mary,Valdez,"Los Angeles"
+899.86,11245,Debra,Washington,Caguas
+1819.8100000000002,7879,Michelle,Powell,Aurora
+839.9200000000001,799,Danielle,Smith,"Pompano Beach"
+149.99,12349,Mary,Arnold,Caguas
+200.0,9574,Mary,Smith,Caguas
+1349.89,1850,Emily,Riggs,Detroit
+1669.8000000000002,1014,Mary,Maxwell,Jamaica
+599.9,2508,Brandon,Adkins,"Ann Arbor"
+689.95,7862,Mary,Smith,Caguas
+239.98000000000002,10949,Zachary,Reyes,Lockport
+919.91,5124,Amber,Smith,"Los Angeles"
+2119.79,7852,Mary,Greene,"San Francisco"
+349.95,7220,Mary,Lyons,Lansdale
+979.9100000000001,11218,Louis,Novak,Murfreesboro
+429.97,1514,Christine,Taylor,Caguas
+739.88,8426,Mary,Smith,Caguas
+2909.7,9119,Mary,Smith,"La Crosse"
+265.96000000000004,10626,Emma,Anderson,Caguas
+399.98,9224,Mary,Cannon,Riverside
+1894.78,8466,Mary,Smith,Bartlett
+639.94,10007,Lori,Luna,"New York"
+643.92,2434,Betty,Gordon,Fayetteville
+179.99,7969,Sean,Kelley,Duluth
+1959.74,10371,Joseph,Smith,"Mount Prospect"
+799.97,4376,Scott,Smith,Caguas
+149.94,5519,Deborah,Archer,Caguas
+399.98,6833,Matthew,Watkins,Caguas
+79.97999999999999,9488,Mary,Smith,Hialeah
+150.0,7209,Mary,Berry,Caguas
+859.87,2204,Mary,Smith,Hamtramck
+1859.74,2384,Mary,Mays,Caguas
+599.9,11681,Roy,Jackson,Caguas
+100.0,6601,Mary,Andrade,"Fort Lauderdale"
+150.0,9879,Linda,Ibarra,Caguas
+1109.89,1338,Linda,Smith,Conway
+1149.8700000000001,6215,Mary,Rush,Painesville
+529.97,10987,Stephen,Campbell,Escondido
+431.96000000000004,9741,Judith,King,Caguas
+759.87,1225,Mary,Smith,Scottsdale
+949.9300000000001,11730,Mary,Perkins,"New Orleans"
+179.94,7543,Robert,Roberson,Caguas
+559.88,10027,Robert,Foley,Caguas
+449.98,5135,Harold,Silva,Tempe
+759.96,4232,Mary,Garza,Caguas
+59.99,4637,Mary,Hamilton,Folsom
+200.0,2465,Mary,Smith,"Diamond Bar"
+979.9300000000001,12024,Mary,Smith,Caguas
+989.9300000000001,10990,Alice,Wyatt,Caguas
+199.99,10594,Pamela,Escobar,Oakland
+349.98,11584,Jeffrey,Wilcox,Caguas
+179.97,320,Mary,Brooks,Chicago
+929.9300000000001,8061,Mary,Cooley,"Salt Lake City"
+299.98,11861,Brittany,Bentley,"Saint Paul"

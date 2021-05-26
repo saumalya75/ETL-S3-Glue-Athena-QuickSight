@@ -1,0 +1,57 @@
+payment_amount,customer_id,first_name,last_name,city
+999.9200000000001,2256,Mary,Smith,"San Jose"
+199.99,9762,Ronald,Johnson,"San Diego"
+1099.8400000000001,12048,Richard,Smith,Hamtramck
+1129.96,12389,Kimberly,King,Arecibo
+649.96,9335,Joseph,Smith,Caguas
+349.93,2361,Mary,Richards,Caguas
+231.95000000000002,11804,Mary,Berger,Caguas
+534.9300000000001,3928,Joseph,Jones,"New York"
+324.95,3054,Gregory,Pope,Compton
+1149.92,1608,Michael,Smith,"Fort Lauderdale"
+699.95,7711,Mary,Powell,Caguas
+499.95,3553,Mary,Lloyd,Caguas
+269.92,770,Mary,Dudley,Caguas
+100.0,488,Mary,Dougherty,"San Francisco"
+399.98,8035,Mark,Andrews,Pacoima
+889.9000000000001,9082,Diane,Terry,Caguas
+439.97,5645,Mary,Villegas,Oxnard
+959.9200000000001,2728,Mary,Adams,Miami
+599.96,1374,Patricia,Lin,Miami
+899.9100000000001,6126,Mary,Smith,Chino
+199.97000000000003,9527,Anna,Smith,Napa
+783.96,1057,Richard,Haynes,Hayward
+199.99,12354,Brenda,Wells,Caguas
+829.94,1089,Mary,Hamilton,Raleigh
+949.9300000000001,10584,Mary,Smith,"Los Angeles"
+584.94,662,Michelle,Moss,Caguas
+1004.88,8707,Lisa,Smith,Caguas
+1779.7900000000002,17,Mary,Robinson,Taylor
+629.87,2441,Mary,Smith,Jacksonville
+599.94,11560,Walter,Walton,Caguas
+884.94,10779,Christine,Smith,Milwaukee
+829.96,1243,Joan,Rosales,Caguas
+389.93,11702,Tiffany,Jimenez,Lawrence
+719.95,10441,Jesse,Smith,Caguas
+539.88,6921,Willie,Stafford,Caguas
+869.9000000000001,10862,Mary,Smith,Stockton
+199.99,3921,Mary,Allen,"East Lansing"
+529.97,995,Helen,Hinton,Richmond
+499.94,5531,Philip,Bowman,Chicago
+609.87,9087,Alice,Smith,Caguas
+119.98,8196,Kimberly,Sheppard,"Eagle Pass"
+349.95,3191,Kathleen,Tate,Caguas
+719.9200000000001,9708,Cynthia,Smith,"Los Angeles"
+469.90999999999997,3501,Rachel,Davila,Caguas
+2659.69,4997,Roy,Todd,Valrico
+199.95999999999998,9522,Mary,Smith,"Simi Valley"
+849.9300000000001,11843,Michelle,Smith,"Las Vegas"
+649.84,2750,George,Mason,"Bowling Green"
+419.95000000000005,2704,Aaron,Boyle,Fontana
+1199.91,8527,Steven,Rivera,Orlando
+699.95,10714,Samuel,Smith,Caguas
+250.0,9697,Stephen,Williams,"Vega Baja"
+829.94,378,John,Stewart,Roswell
+129.99,8731,Donna,Allen,Detroit
+589.8900000000001,2349,William,Smith,Caguas
+1239.84,2299,Dorothy,Miller,Phoenix
