@@ -1,0 +1,930 @@
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"California","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Utah","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Washington","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Rural/Urban","Measure_Element":"Rural","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Medicare Status","Measure_Element":"Dual Medicare And Medicaid - Esrd","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Medicare Status","Measure_Element":"Medicare Only - Disabled","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Arkansas","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Colorado","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"North Carolina","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"North Dakota","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Texas","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Rural/Urban","Measure_Element":"Rural","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Age Group","Measure_Element":"85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Medicare Only - Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Medicare Only - Hispanic","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"02/08/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"05/02/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"07/04/2020","Measure_Unit":"Beneficiary Count","count":6}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"07/25/2020","Measure_Unit":"Beneficiary Count","count":5}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"06/20/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289)","Measure_Element":"01/04/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Asian / Pacific Islander - 75-84","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Hispanic - Less Than 65","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Black / African-American - Male","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Black / African-American - Disabled","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Asian / Pacific Islander - 85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Hispanic - 85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Black / African-American - Esrd","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Maine","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"West Virginia","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Dual Medicare And Medicaid - 65-74","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Medicare Status","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"District Of Columbia","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Louisiana","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Pennsylvania","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Utah","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Virgin Islands","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Rural/Urban","Measure_Element":"Rural","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Medicare Status","Measure_Element":"Medicare Only - Disabled","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"05/30/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"08/22/2020","Measure_Unit":"Beneficiary Count","count":4}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"02/08/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"03/07/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"05/16/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"05/30/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"08/08/2020","Measure_Unit":"Beneficiary Count","count":5}
+{"Measure_Level":"COVID-19 Inpatient Length of Stay","Measure_Element":"1","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Heart Failure","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Black / African-American - Esrd","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Hispanic - Disabled","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"White - Esrd","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Other/Unknown - Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"White - 75-84","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Asian / Pacific Islander - Female","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Black / African-American - Female","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"White - Esrd","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Maryland","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Montana","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Virgin Islands","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race","Measure_Element":"White","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Medicare Only - 75-84","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Medicare Only - White","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Sex","Measure_Element":"Medicare Only - Male","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Nebraska","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Oklahoma","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"South Carolina","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Race","Measure_Element":"Hispanic","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Medicare Status","Measure_Element":"Aged","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status","Measure_Element":"Dual Medicare And Medicaid","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Dual Medicare And Medicaid - 65-74","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Medicare Only - 85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"02/22/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"08/22/2020","Measure_Unit":"Beneficiary Count","count":4}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"10/03/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"01/04/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"02/08/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"04/18/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"05/23/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289)","Measure_Element":"03/14/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Other/Unknown - 85 And Over","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Hispanic - Female","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Other/Unknown - Female","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Other/Unknown - Male","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Asian / Pacific Islander - Disabled","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Black / African-American - Aged","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations","Measure_Element":"Overall","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Illinois","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"New Jersey","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"North Carolina","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Rhode Island","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Utah","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Age Group","Measure_Element":"75-84","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Alaska","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Florida","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race","Measure_Element":"Other/Unknown","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Medicare Status","Measure_Element":"Disabled","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Medicare Only - 85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Medicare Only - Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - White","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Medicare Only - Asian / Pacific Islander","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"09/26/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"10/24/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"10/17/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"11/07/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"12/19/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Inpatient Length of Stay","Measure_Element":"4","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Inpatient Length of Stay","Measure_Element":"16-20","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"American Indian / Alaska Native - 65-74","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Hispanic - Less Than 65","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"White - 65-74","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Other/Unknown - Aged","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"White - Aged","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"White - Disabled","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"American Indian / Alaska Native - 85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Asian / Pacific Islander - 85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"White - Female","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases","Measure_Element":"Overall","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Georgia","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Pennsylvania","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Texas","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Virginia","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Sex","Measure_Element":"Female","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Dual Medicare And Medicaid - 75-84","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Medicare Only - Asian / Pacific Islander","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Medicare Only - Other/Unknown","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Mississippi","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"New York","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Virgin Islands","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Race","Measure_Element":"American Indian / Alaska Native","Measure_Unit":"Beneficiary Count per 100K","count":7}
+{"Measure_Level":"COVID-19 Cases by Race","Measure_Element":"Black / African-American","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Medicare Only - Black / African-American","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"01/25/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"06/06/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"07/11/2020","Measure_Unit":"Beneficiary Count","count":6}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"08/29/2020","Measure_Unit":"Beneficiary Count","count":4}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"11/14/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"02/22/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"03/07/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"05/02/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"08/15/2020","Measure_Unit":"Beneficiary Count","count":5}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"08/29/2020","Measure_Unit":"Beneficiary Count","count":4}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"09/19/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"10/10/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289)","Measure_Element":"02/22/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"White - 75-84","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"American Indian / Alaska Native - Female","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Asian / Pacific Islander - 75-84","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Other/Unknown - 65-74","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Black / African-American - Male","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"American Indian / Alaska Native - Disabled","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Colorado","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Maryland","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Sex","Measure_Element":"Medicare Only - Female","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Montana","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Oklahoma","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Medicare Status","Measure_Element":"Aged","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"01/11/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"02/08/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"03/21/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"05/23/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"06/06/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"08/01/2020","Measure_Unit":"Beneficiary Count","count":5}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"11/07/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"01/25/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"12/05/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"12/26/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Inpatient Length of Stay","Measure_Element":"7","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Inpatient Length of Stay","Measure_Element":"8-10","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Diabetes","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"COPD","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Atrial Fibrillation","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Black / African-American - Less Than 65","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Other/Unknown - Male","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Asian / Pacific Islander - Esrd","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Hispanic - 75-84","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"White - 65-74","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"White - Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Iowa","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Nebraska","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Oregon","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Wyoming","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Medicare Only - Hispanic","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Illinois","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Iowa","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Michigan","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Utah","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Race","Measure_Element":"Asian / Pacific Islander","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - American Indian / Alaska Native","Measure_Unit":"Beneficiary Count per 100K","count":7}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Medicare Only - Asian / Pacific Islander","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"01/18/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"06/20/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"01/11/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"05/09/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289)","Measure_Element":"03/07/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Asian / Pacific Islander - 85 And Over","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Asian / Pacific Islander - Less Than 65","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Black / African-American - Female","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Black / African-American - 65-74","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Other/Unknown - Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Black / African-American - Female","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"White - Aged","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"White - Disabled","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Michigan","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"New Hampshire","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Washington","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Wyoming","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race","Measure_Element":"Asian / Pacific Islander","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Sex","Measure_Element":"Female","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Sex","Measure_Element":"Male","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Medicare Status","Measure_Element":"Aged","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Medicare Only - 85 And Over","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Medicare Status","Measure_Element":"Medicare Only - Esrd","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Nebraska","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"New Mexico","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Tennessee","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Rural/Urban","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Age Group","Measure_Element":"65-74","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status","Measure_Element":"Dual Medicare And Medicaid","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"04/11/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"08/29/2020","Measure_Unit":"Beneficiary Count","count":4}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"12/12/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"04/11/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"09/05/2020","Measure_Unit":"Beneficiary Count","count":4}
+{"Measure_Level":"COVID-19 Inpatient Length of Stay","Measure_Element":"11-15","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Rheumatoid Arthritis/Osteoarthritis","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Medicare Payments for FFS COVID-19 Hospitalizations","Measure_Element":"Beneficaries with a FFS Hospitalization","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Asian / Pacific Islander - 75-84","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Other/Unknown - 85 And Over","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"American Indian / Alaska Native - Female","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Black / African-American - Male","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Other/Unknown - Disabled","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Other/Unknown - Esrd","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Other/Unknown - 85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Hispanic - Male","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Delaware","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Minnesota","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"New Jersey","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Rhode Island","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"South Carolina","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Medicare Status","Measure_Element":"Disabled","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Medicare Only - 65-74","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Sex","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Alabama","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Hawaii","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Indiana","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Kansas","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Wisconsin","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Medicare Only - Other/Unknown","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"03/28/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"07/18/2020","Measure_Unit":"Beneficiary Count","count":6}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"11/21/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"03/14/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"05/30/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"08/08/2020","Measure_Unit":"Beneficiary Count","count":5}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Asian / Pacific Islander - Male","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Other/Unknown - Esrd","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Hispanic - Female","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Asian / Pacific Islander - Aged","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Asian / Pacific Islander - Esrd","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Georgia","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Nevada","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"New Mexico","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"New York","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"South Carolina","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"South Dakota","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Medicare Only - Black / African-American","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Sex","Measure_Element":"Dual Medicare And Medicaid - Female","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Sex","Measure_Element":"Medicare Only - Male","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Illinois","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Rhode Island","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Wyoming","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Rural/Urban","Measure_Element":"Urban","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Medicare Only - 75-84","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - American Indian / Alaska Native","Measure_Unit":"Beneficiary Count per 100K","count":7}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - Black / African-American","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"10/24/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Anemia","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Depression","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Cancer","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Stroke","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Black / African-American - 65-74","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"American Indian / Alaska Native - Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Black / African-American - Disabled","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Other/Unknown - Esrd","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Alabama","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Arizona","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Arkansas","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Medicare Status","Measure_Element":"Aged","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Dual Medicare And Medicaid - 65-74","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - White","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Idaho","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Rhode Island","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Washington","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Age Group","Measure_Element":"Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Sex","Measure_Element":"Female","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Sex","Measure_Element":"Male","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Medicare Status","Measure_Element":"Dual Medicare And Medicaid - Esrd","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"02/01/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Other/Unknown - Less Than 65","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"White - Female","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Black / African-American - Esrd","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Hispanic - Disabled","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"American Indian / Alaska Native - 75-84","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Black / African-American - 75-84","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Hispanic - 75-84","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Hispanic - Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Hispanic - Esrd","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Hawaii","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Missouri","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Oklahoma","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Oregon","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Rural/Urban","Measure_Element":"Urban","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race","Measure_Element":"Other/Unknown","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race","Measure_Element":"White","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Medicare Status","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - Asian / Pacific Islander","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - White","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Medicare Status","Measure_Element":"Medicare Only - Aged","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Georgia","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Indiana","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Maryland","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"North Carolina","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"South Dakota","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Texas","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Sex","Measure_Element":"Female","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Medicare Only - White","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Medicare Status","Measure_Element":"Dual Medicare And Medicaid - Disabled","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"01/04/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"01/18/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"06/20/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"01/11/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"02/29/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"06/27/2020","Measure_Unit":"Beneficiary Count","count":6}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"08/29/2020","Measure_Unit":"Beneficiary Count","count":4}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"11/28/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Inpatient Length of Stay","Measure_Element":"3","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Schizophrenia","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Medicare Payments for FFS COVID-19 Hospitalizations","Measure_Element":"Total Medicare Payment","Measure_Unit":"Payment","count":8}
+{"Measure_Level":"Medicare Payments for FFS COVID-19 Hospitalizations","Measure_Element":"Average Medicare Payment","Measure_Unit":"Payment","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Other/Unknown - Less Than 65","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"American Indian / Alaska Native - 65-74","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Black / African-American - 75-84","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Black / African-American - Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Other/Unknown - 65-74","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Asian / Pacific Islander - Male","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Connecticut","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Kansas","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Ohio","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"West Virginia","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Age Group","Measure_Element":"65-74","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status","Measure_Element":"Medicare Only","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - Other/Unknown","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Medicare Only - Black / African-American","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Maryland","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Minnesota","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Nevada","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Wyoming","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Medicare Status","Measure_Element":"Disabled","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - Asian / Pacific Islander","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"01/11/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"06/27/2020","Measure_Unit":"Beneficiary Count","count":6}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"09/05/2020","Measure_Unit":"Beneficiary Count","count":4}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"10/24/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"12/12/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"12/26/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Asian / Pacific Islander - 65-74","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Hispanic - 65-74","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"American Indian / Alaska Native - Male","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"American Indian / Alaska Native - 85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Hispanic - Male","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"White - Male","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"American Indian / Alaska Native - Esrd","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Black / African-American - Disabled","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Other/Unknown - Aged","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"District Of Columbia","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Indiana","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Dual Medicare And Medicaid - 75-84","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Medicare Only - 65-74","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Medicare Status","Measure_Element":"Medicare Only - Disabled","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"New York","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race","Measure_Element":"Hispanic","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Dual Medicare And Medicaid - 85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Dual Medicare And Medicaid - Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - Hispanic","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Medicare Only - American Indian / Alaska Native","Measure_Unit":"Beneficiary Count per 100K","count":7}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Medicare Status","Measure_Element":"Dual Medicare And Medicaid - Aged","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Medicare Status","Measure_Element":"Medicare Only - Aged","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"05/02/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"07/11/2020","Measure_Unit":"Beneficiary Count","count":6}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"10/17/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"02/01/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"02/15/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"02/22/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"05/02/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Inpatient Discharge Status","Measure_Element":"Home","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Inpatient Discharge Status","Measure_Element":"Expired","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Inpatient Discharge Status","Measure_Element":"Home Health","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Peripheral Vascular Disease","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Asian / Pacific Islander - Female","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Asian / Pacific Islander - Disabled","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Black / African-American - Aged","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Asian / Pacific Islander - Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Idaho","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Illinois","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Nevada","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race","Measure_Element":"American Indian / Alaska Native","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Cases by Dual Status","Measure_Element":"Dual Medicare And Medicaid","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - Hispanic","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Missouri","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"South Dakota","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Dual Medicare And Medicaid - 75-84","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - Other/Unknown","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Medicare Only - White","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"05/23/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"12/12/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"12/26/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"04/25/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"06/27/2020","Measure_Unit":"Beneficiary Count","count":6}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"08/22/2020","Measure_Unit":"Beneficiary Count","count":4}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"White - Esrd","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Hispanic - 65-74","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Alaska","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"California","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Ohio","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Texas","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - Black / African-American","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Iowa","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Michigan","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Virginia","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Medicare Only - Other/Unknown","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"08/15/2020","Measure_Unit":"Beneficiary Count","count":5}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"09/19/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"12/12/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Inpatient Length of Stay","Measure_Element":"5","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Inpatient Discharge Status","Measure_Element":"Another Health Care Facility","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Hyperlipidemia","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"American Indian / Alaska Native - 85 And Over","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Asian / Pacific Islander - Less Than 65","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"American Indian / Alaska Native - Esrd","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Hispanic - 85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"White - Male","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Hispanic - Aged","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"White - Aged","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"White - Disabled","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Guam","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"North Carolina","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Tennessee","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Medicare Only - Less Than 65","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - Asian / Pacific Islander","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Sex","Measure_Element":"Dual Medicare And Medicaid - Female","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"California","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Puerto Rico","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - Black / African-American","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Medicare Status","Measure_Element":"Medicare Only - Esrd","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"04/25/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"02/01/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"06/06/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"07/18/2020","Measure_Unit":"Beneficiary Count","count":6}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"10/03/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"10/31/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289)","Measure_Element":"01/11/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"American Indian / Alaska Native - 75-84","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Black / African-American - Less Than 65","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"White - Less Than 65","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Hispanic - Male","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Black / African-American - Aged","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"White - Aged","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Other/Unknown - Male","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"White - Esrd","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Delaware","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Kansas","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Virgin Islands","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status","Measure_Element":"Dual Medicare And Medicaid","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Medicare Only - Hispanic","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Medicare Only - Other/Unknown","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations","Measure_Element":"Overall","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Age Group","Measure_Element":"85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Age Group","Measure_Element":"Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Dual Medicare And Medicaid - 75-84","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - Asian / Pacific Islander","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Medicare Only - Hispanic","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Sex","Measure_Element":"Dual Medicare And Medicaid - Male","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Medicare Status","Measure_Element":"Dual Medicare And Medicaid - Esrd","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"06/13/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"03/14/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"05/23/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"08/01/2020","Measure_Unit":"Beneficiary Count","count":5}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"09/12/2020","Measure_Unit":"Beneficiary Count","count":4}
+{"Measure_Level":"COVID-19 Inpatient Length of Stay","Measure_Element":"6","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Inpatient Discharge Status","Measure_Element":"Assisted Living/Nursing Home","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Asthma","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Medicare Payments for FFS COVID-19 Hospitalizations","Measure_Element":"Medicare Payment: 95th Percentile","Measure_Unit":"Payment","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Black / African-American - 85 And Over","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Hispanic - 65-74","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Hispanic - Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"American Indian / Alaska Native - Female","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Other/Unknown - Female","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Asian / Pacific Islander - Aged","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Asian / Pacific Islander - Disabled","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Black / African-American - Aged","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Other/Unknown - Disabled","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Mississippi","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Rural/Urban","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Age Group","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Sex","Measure_Element":"Male","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - Black / African-American","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Medicare Status","Measure_Element":"Medicare Only - Esrd","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Arizona","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Connecticut","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Louisiana","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"New Mexico","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Medicare Only - American Indian / Alaska Native","Measure_Unit":"Beneficiary Count per 100K","count":7}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"06/13/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"08/08/2020","Measure_Unit":"Beneficiary Count","count":5}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"10/10/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"10/24/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"11/28/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"09/26/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Black / African-American - 65-74","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Asian / Pacific Islander - Aged","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Asian / Pacific Islander - 65-74","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Asian / Pacific Islander - Female","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"White - Female","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"American Indian / Alaska Native - Aged","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Alabama","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Iowa","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Kentucky","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Mississippi","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"North Dakota","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Puerto Rico","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Wisconsin","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race","Measure_Element":"Black / African-American","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - Hispanic","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Medicare Status","Measure_Element":"Dual Medicare And Medicaid - Aged","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Medicare Status","Measure_Element":"Dual Medicare And Medicaid - Esrd","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Alabama","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Guam","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Minnesota","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Puerto Rico","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"South Carolina","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race","Measure_Element":"Black / African-American","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Sex","Measure_Element":"Male","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Medicare Status","Measure_Element":"ESRD","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Medicare Only - Black / African-American","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Sex","Measure_Element":"Medicare Only - Male","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"12/19/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"08/15/2020","Measure_Unit":"Beneficiary Count","count":5}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"10/03/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"10/10/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Asian / Pacific Islander - 85 And Over","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Black / African-American - 75-84","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"White - Less Than 65","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Black / African-American - Female","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"American Indian / Alaska Native - Male","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Hispanic - Female","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Asian / Pacific Islander - Esrd","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"New Hampshire","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"New Mexico","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Age Group","Measure_Element":"75-84","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Dual Medicare And Medicaid - 85 And Over","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Sex","Measure_Element":"Dual Medicare And Medicaid - Male","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Georgia","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Guam","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Vermont","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Rural/Urban","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Sex","Measure_Element":"Dual Medicare And Medicaid - Female","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Sex","Measure_Element":"Medicare Only - Male","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"04/04/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"10/17/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289)","Measure_Element":"02/01/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289)","Measure_Element":"03/28/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Other/Unknown - 65-74","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"American Indian / Alaska Native - Esrd","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"White - Disabled","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Black / African-American - Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Asian / Pacific Islander - Male","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Nebraska","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Tennessee","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Vermont","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - American Indian / Alaska Native","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Arkansas","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Delaware","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Maine","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Oregon","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Wisconsin","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"01/25/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"02/01/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"02/15/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"02/22/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"09/12/2020","Measure_Unit":"Beneficiary Count","count":4}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"10/31/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"11/28/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"12/05/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"06/06/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"07/04/2020","Measure_Unit":"Beneficiary Count","count":6}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"07/11/2020","Measure_Unit":"Beneficiary Count","count":6}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"08/22/2020","Measure_Unit":"Beneficiary Count","count":4}
+{"Measure_Level":"COVID-19 Inpatient Length of Stay","Measure_Element":"21-30","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Asian / Pacific Islander - 65-74","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"American Indian / Alaska Native - Male","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Other/Unknown - Female","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"American Indian / Alaska Native - Disabled","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Asian / Pacific Islander - 75-84","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"American Indian / Alaska Native - Aged","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Indiana","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"New York","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race","Measure_Element":"Other/Unknown","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Medicare Status","Measure_Element":"Dual Medicare And Medicaid - Disabled","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"District Of Columbia","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Ohio","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Dual Medicare And Medicaid - Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Medicare Only - 65-74","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Medicare Status","Measure_Element":"Dual Medicare And Medicaid - Disabled","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"03/07/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"03/14/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"05/16/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"05/30/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"03/21/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"10/17/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"11/28/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289)","Measure_Element":"02/08/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289)","Measure_Element":"03/21/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Asian / Pacific Islander - Esrd","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"American Indian / Alaska Native - Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Black / African-American - 85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Hispanic - Disabled","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Other/Unknown - Esrd","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Connecticut","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Louisiana","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Montana","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Age Group","Measure_Element":"85 And Over","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Age Group","Measure_Element":"Less Than 65","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Dual Medicare And Medicaid - 85 And Over","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Medicare Only - Less Than 65","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Medicare Only - American Indian / Alaska Native","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Medicare Only - Asian / Pacific Islander","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Sex","Measure_Element":"Dual Medicare And Medicaid - Male","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Medicare Status","Measure_Element":"Dual Medicare And Medicaid - Disabled","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"California","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Kansas","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Kentucky","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"New Hampshire","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race","Measure_Element":"Asian / Pacific Islander","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Medicare Status","Measure_Element":"Medicare Only - Esrd","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"03/14/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"03/28/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"04/18/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"05/16/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"10/10/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"11/14/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"03/21/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"04/04/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"07/18/2020","Measure_Unit":"Beneficiary Count","count":6}
+{"Measure_Level":"COVID-19 Inpatient Length of Stay","Measure_Element":"2","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Hypertension","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Hispanic - Male","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"White - Male","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"American Indian / Alaska Native - 75-84","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Black / African-American - 65-74","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Black / African-American - 85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Hispanic - 65-74","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"American Indian / Alaska Native - Disabled","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"District Of Columbia","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Louisiana","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Maine","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Massachusetts","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Michigan","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Puerto Rico","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race","Measure_Element":"Black / African-American","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Maine","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"New Hampshire","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"New Jersey","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Pennsylvania","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Race","Measure_Element":"White","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Sex","Measure_Element":"Dual Medicare And Medicaid - Male","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Medicare Status","Measure_Element":"Medicare Only - Disabled","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"01/04/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"02/15/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"04/11/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"09/12/2020","Measure_Unit":"Beneficiary Count","count":4}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"11/07/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"01/18/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"01/25/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"04/04/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"04/11/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"07/11/2020","Measure_Unit":"Beneficiary Count","count":6}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"12/05/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"American Indian / Alaska Native - 65-74","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Black / African-American - 85 And Over","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Other/Unknown - 75-84","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"White - 65-74","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Other/Unknown - Aged","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Other/Unknown - Disabled","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Asian / Pacific Islander - Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Other/Unknown - 75-84","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Other/Unknown - Female","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Guam","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Pennsylvania","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Age Group","Measure_Element":"65-74","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race","Measure_Element":"American Indian / Alaska Native","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Hospitalizations by Sex","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Medicare Status","Measure_Element":"Disabled","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Medicare Only - 75-84","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Connecticut","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"North Dakota","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Ohio","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Age Group","Measure_Element":"75-84","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race","Measure_Element":"White","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Dual Medicare And Medicaid - 65-74","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"04/04/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"04/25/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"07/18/2020","Measure_Unit":"Beneficiary Count","count":6}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"09/05/2020","Measure_Unit":"Beneficiary Count","count":4}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"03/28/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"04/25/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"07/25/2020","Measure_Unit":"Beneficiary Count","count":5}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"11/21/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Overall (Prevalence Denominator)","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Medicare Payments for FFS COVID-19 Hospitalizations","Measure_Element":"Medicare Payment: 5th Percentile","Measure_Unit":"Payment","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"American Indian / Alaska Native - Less Than 65","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Other/Unknown - 65-74","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"White - 85 And Over","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Hispanic - Female","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"White - Female","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Hispanic - Aged","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Other/Unknown - 75-84","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Other/Unknown - Aged","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Colorado","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Florida","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Kentucky","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Oklahoma","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Wisconsin","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Age Group","Measure_Element":"Less Than 65","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race","Measure_Element":"Asian / Pacific Islander","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race","Measure_Element":"Hispanic","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Medicare Status","Measure_Element":"Medicare Only - Aged","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Alaska","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Delaware","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Oregon","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Dual Medicare And Medicaid - 85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Medicare Only - 75-84","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - White","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"05/09/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"08/15/2020","Measure_Unit":"Beneficiary Count","count":5}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"09/19/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"09/26/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"10/31/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"12/05/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"12/19/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"02/29/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"11/07/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289)","Measure_Element":"01/25/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"Asian / Pacific Islander - Female","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"American Indian / Alaska Native - Aged","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Other/Unknown - 85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"White - Less Than 65","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Arizona","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Florida","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Idaho","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Virginia","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Rural/Urban","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Rural/Urban","Measure_Element":"Rural","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Medicare Status","Measure_Element":"ESRD","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Dual Medicare And Medicaid - Less Than 65","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Arizona","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Colorado","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Nevada","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Washington","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"02/29/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"06/27/2020","Measure_Unit":"Beneficiary Count","count":6}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"07/04/2020","Measure_Unit":"Beneficiary Count","count":6}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"08/08/2020","Measure_Unit":"Beneficiary Count","count":5}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"12/26/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"09/19/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"09/26/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Inpatient Discharge Status","Measure_Element":"Hospice","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Obesity","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"American Indian / Alaska Native - 75-84","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Hispanic - 85 And Over","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"White - 75-84","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"American Indian / Alaska Native - Aged","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Black / African-American - Disabled","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Asian / Pacific Islander - 65-74","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Black / African-American - Esrd","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Hispanic - Disabled","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Hawaii","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"North Dakota","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Age Group","Measure_Element":"85 And Over","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Medicare Status","Measure_Element":"ESRD","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Medicare Status","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Medicare Only - 85 And Over","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Sex","Measure_Element":"Medicare Only - Female","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Kentucky","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Massachusetts","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Tennessee","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"West Virginia","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Rural/Urban","Measure_Element":"Urban","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Age Group","Measure_Element":"75-84","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Race","Measure_Element":"Other/Unknown","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Medicare Status","Measure_Element":"ESRD","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"03/21/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"04/18/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"08/01/2020","Measure_Unit":"Beneficiary Count","count":5}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"03/28/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"05/16/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"07/25/2020","Measure_Unit":"Beneficiary Count","count":5}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"09/12/2020","Measure_Unit":"Beneficiary Count","count":4}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"12/19/2020","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289)","Measure_Element":"02/29/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"American Indian / Alaska Native - Less Than 65","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Black / African-American - 75-84","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Hispanic - 75-84","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"Hispanic - 85 And Over","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"White - Male","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Hispanic - Aged","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Hispanic - Esrd","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"White - 65-74","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"White - 75-84","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"American Indian / Alaska Native - Female","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Asian / Pacific Islander - Disabled","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Arkansas","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Minnesota","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Age Group","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race","Measure_Element":"Hispanic","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - Other/Unknown","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Sex","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Hawaii","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Massachusetts","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Mississippi","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Missouri","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Vermont","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - Other/Unknown","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Sex","Measure_Element":"Medicare Only - Female","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"07/25/2020","Measure_Unit":"Beneficiary Count","count":5}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"11/21/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"04/18/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"05/09/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Inpatient Length of Stay","Measure_Element":"31+","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Alzheimer Disease/Dementia","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Osteoporosis","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Hispanic - 75-84","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"Other/Unknown - 75-84","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Black / African-American - Male","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Alaska","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Missouri","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"South Dakota","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Vermont","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Rural/Urban","Measure_Element":"Urban","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Sex","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Age Group","Measure_Element":"Dual Medicare And Medicaid - Less Than 65","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - American Indian / Alaska Native","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Medicare Only - American Indian / Alaska Native","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Medicare Status","Measure_Element":"Dual Medicare And Medicaid - Aged","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Medicare Status","Measure_Element":"Missing Data","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases","Measure_Element":"Overall","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Florida","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Montana","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by State","Measure_Element":"Virginia","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Age Group","Measure_Element":"65-74","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status","Measure_Element":"Medicare Only","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Race","Measure_Element":"Dual Medicare And Medicaid - Hispanic","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Sex","Measure_Element":"Medicare Only - Female","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Medicare Status","Measure_Element":"Dual Medicare And Medicaid - Aged","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Cases by Dual Status and Medicare Status","Measure_Element":"Medicare Only - Aged","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"02/29/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases (U07.1)","Measure_Element":"09/05/2020","Measure_Unit":"Beneficiary Count","count":4}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"02/15/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"06/13/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"07/04/2020","Measure_Unit":"Beneficiary Count","count":6}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"08/01/2020","Measure_Unit":"Beneficiary Count","count":5}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"11/14/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"COVID-19 Weekly Cases  (B97.29)","Measure_Element":"11/21/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289)","Measure_Element":"01/18/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289)","Measure_Element":"02/15/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"American Indian / Alaska Native - 85 And Over","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"White - 85 And Over","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"American Indian / Alaska Native - Disabled","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"American Indian / Alaska Native - 65-74","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Age Group","Measure_Element":"White - 85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Sex","Measure_Element":"American Indian / Alaska Native - Male","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Hispanic - Aged","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Cases by Race and Medicare Status","Measure_Element":"Other/Unknown - Disabled","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Massachusetts","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status","Measure_Element":"Medicare Only","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Race","Measure_Element":"Medicare Only - White","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"Idaho","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"New Jersey","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by State","Measure_Element":"West Virginia","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race","Measure_Element":"American Indian / Alaska Native","Measure_Unit":"Beneficiary Count per 100K","count":7}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status","Measure_Element":"Medicare Only","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Age Group","Measure_Element":"Medicare Only - 65-74","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Dual Status and Sex","Measure_Element":"Dual Medicare And Medicaid - Female","Measure_Unit":"Beneficiary Count per 100K","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"03/07/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"05/09/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations (U07.1)","Measure_Element":"10/03/2020","Measure_Unit":"Beneficiary Count","count":3}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"01/04/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"01/18/2020","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"06/13/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"06/20/2020","Measure_Unit":"Beneficiary Count","count":7}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"10/31/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"COVID-19 Weekly Hospitalizations  (B97.29)","Measure_Element":"11/14/2020","Measure_Unit":"Beneficiary Count","count":2}
+{"Measure_Level":"COVID-19 Inpatient Discharge Status","Measure_Element":"Skilled Nursing Facility","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Inpatient Discharge Status","Measure_Element":"Other","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Chronic Kidney Disease","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations","Measure_Element":"Ischemic Heart Disease","Measure_Unit":"Beneficiary Count","count":8}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Asian / Pacific Islander - Male","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Asian / Pacific Islander - Aged","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Hispanic - Esrd","Measure_Unit":"Beneficiary Count","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Age Group","Measure_Element":"White - 85 And Over","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Sex","Measure_Element":"Other/Unknown - Male","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"American Indian / Alaska Native - Esrd","Measure_Unit":"Beneficiary Count per 100K","count":1}
+{"Measure_Level":"COVID-19 Hospitalizations by Race and Medicare Status","Measure_Element":"Hispanic - Esrd","Measure_Unit":"Beneficiary Count per 100K","count":1}
