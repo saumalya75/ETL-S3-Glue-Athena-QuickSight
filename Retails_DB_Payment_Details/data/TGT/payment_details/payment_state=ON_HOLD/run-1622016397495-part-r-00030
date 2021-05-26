@@ -1,0 +1,48 @@
+payment_amount,customer_id,first_name,last_name,city
+939.9200000000001,3892,Billy,Smith,Waukegan
+969.87,1461,Mary,Webb,Caguas
+829.78,6492,Bryan,Smith,Provo
+1099.83,7363,Mary,Cole,Tonawanda
+1019.86,3509,Mary,Perry,Caguas
+199.99,6261,David,Smith,Corona
+309.96000000000004,4701,Joyce,Barker,Caguas
+629.79,8716,Evelyn,Smith,Caguas
+150.0,2430,Michelle,Smith,Dallas
+1049.91,5580,Kathryn,Smith,"Moreno Valley"
+1135.91,10101,Mary,Lindsey,"El Centro"
+859.9000000000001,3646,Mary,Smith,"New York"
+739.9,3177,Mary,Nguyen,Irvington
+559.95,9693,Mary,Cortez,Richardson
+469.94000000000005,4193,Daniel,Haas,Sanford
+49.98,8386,Mary,Smith,Caguas
+749.8199999999999,8486,Joseph,Cain,"Los Angeles"
+1105.89,3184,Tyler,Smith,"Broken Arrow"
+1589.81,6451,Martha,Bradley,Greenville
+149.94,7441,Linda,Smith,Joliet
+399.98,1617,Melissa,Peterson,Caguas
+949.95,4991,Mary,Krause,Greensboro
+99.96,8139,Douglas,Smith,Apopka
+1099.75,2045,Katherine,Lozano,Methuen
+779.84,3882,Joshua,Campbell,Greensburg
+569.9100000000001,5718,Philip,Nixon,Caguas
+679.9100000000001,11291,Mary,Ramirez,Brooklyn
+609.94,11516,Kevin,Smith,"Carol Stream"
+309.98,71,Charles,Smith,Philadelphia
+869.8800000000001,2020,Mary,Caldwell,Caguas
+409.95000000000005,9141,Ronald,Clark,Bakersfield
+995.9100000000001,11284,Sarah,Sherman,Manati
+589.96,12068,Mary,Smith,Aurora
+99.96,8967,Donald,West,Caguas
+399.98,10406,Michael,Smith,Caguas
+799.95,2032,Douglas,Smith,Caguas
+304.96000000000004,6508,Philip,Smith,Hamilton
+789.91,5519,Deborah,Archer,Caguas
+1079.83,1011,Mary,Smith,Caguas
+961.8699999999999,415,Mary,Allen,"San Diego"
+549.97,9720,Julia,Berry,Caguas
+517.96,6605,Mary,Branch,Philadelphia
+519.89,3498,Elizabeth,Ramos,Caguas
+549.9,4719,Mary,Mcintosh,Hollywood
+539.9399999999999,8804,Carolyn,Hughes,Moline
+699.9000000000001,9371,Mary,Patterson,Meridian
+849.95,2917,Kyle,Smith,"San Jose"

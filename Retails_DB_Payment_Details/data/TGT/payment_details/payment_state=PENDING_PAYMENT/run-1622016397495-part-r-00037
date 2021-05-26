@@ -1,0 +1,108 @@
+payment_amount,customer_id,first_name,last_name,city
+515.85,8619,Jack,Smith,Caguas
+1498.8500000000001,1165,Edward,Smith,Houston
+329.90999999999997,1290,Carolyn,Charles,Chesapeake
+399.98,9894,Mary,Fowler,Fresno
+499.93,6779,Richard,Durham,Pacoima
+679.9100000000001,9152,Mary,Martinez,"Salt Lake City"
+1301.81,8697,Gerald,Smith,Caguas
+719.9200000000001,3672,James,Park,Caguas
+899.8900000000001,3408,Catherine,Ryan,Caguas
+649.99,7449,Jerry,Jenkins,Caguas
+739.91,10153,Mary,Smith,Caguas
+749.9300000000001,1287,Mary,Davis,Methuen
+2282.8199999999997,3617,Mary,Smith,Jackson
+1379.83,2158,Mary,Smith,Fontana
+947.8100000000002,2455,Mary,Love,"Carol Stream"
+399.99,10069,George,Smith,Albuquerque
+1529.8000000000002,2237,Mary,Smith,"West New York"
+1334.7800000000002,11400,Frances,Holmes,"Fort Worth"
+150.0,11805,Anthony,Smith,Corona
+1101.9,2560,Mary,Gilmore,Caguas
+659.96,8185,Ronald,Powell,Folsom
+659.9000000000001,7699,Judith,Ray,Caguas
+509.90000000000003,98,William,Smith,Caguas
+729.95,8337,Kathy,Jenkins,Chicago
+299.97,10877,Mary,Smith,"Juana Diaz"
+819.9200000000001,1703,Hannah,White,Birmingham
+1039.94,10978,Mary,Smith,Burnsville
+2841.7,9580,Mary,Robbins,"Las Vegas"
+529.95,8599,Elizabeth,Smith,Caguas
+789.87,10705,Mary,Potter,Orlando
+649.95,6762,Mary,Smith,Caguas
+1376.68,5627,Judith,Ferguson,Jacksonville
+1099.88,11351,Mary,Smith,Tempe
+679.95,1990,Kathryn,Smith,Tempe
+784.8500000000001,7633,Emily,Smith,Caguas
+919.85,10216,Mary,Schneider,Hagerstown
+1299.94,3554,Michael,Smith,"Los Angeles"
+359.96000000000004,2861,Mary,Williamson,Honolulu
+1449.8400000000001,2914,Mary,Smith,Caguas
+959.9000000000001,7595,Mary,Meyer,Irwin
+438.97,11762,Mary,Downs,Tampa
+3739.59,1851,Mary,Smith,Caguas
+449.96000000000004,5811,Mary,Edwards,Caguas
+1325.8700000000001,11448,Mary,Tucker,Caguas
+299.98,6766,Mary,Smith,"Fort Washington"
+849.97,6414,Mary,Smith,Ponce
+879.94,8673,Carolyn,Smith,Caguas
+2089.78,2335,Harold,Howell,Riverside
+259.93,3928,Joseph,Jones,"New York"
+2071.79,9742,Mary,Frost,"New York"
+1344.8400000000001,2918,Mary,Myers,Caguas
+949.96,7698,Mary,Smith,Endicott
+429.96000000000004,10622,Mary,Hoover,Caguas
+1729.89,8011,Mary,Hill,Caguas
+1039.89,2472,Alan,Holmes,Caguas
+1129.9,11618,Tammy,Smith,Houston
+559.95,11195,Jacqueline,Smith,Caguas
+119.98,6235,Stephen,Brown,Caguas
+695.94,7775,Amy,Le,Dundalk
+1569.8600000000001,6611,Dennis,Smith,Caguas
+899.94,264,Mary,Smith,Goleta
+99.97999999999999,10789,Kimberly,Cooke,"Pompano Beach"
+1559.9,6448,Mary,Lawrence,Caguas
+1029.92,2785,Frances,Lawrence,Caguas
+1299.91,5438,Mary,Smith,Caguas
+1629.92,1577,Mary,Smith,Caguas
+39.99,9954,Emily,Smith,Caguas
+399.98,1936,Jane,Jennings,Caguas
+2890.64,8399,Donna,Sims,Caguas
+529.9200000000001,11576,Richard,Andrade,Caguas
+2399.69,3671,Mary,Johnson,Mentor
+411.94,3625,Mary,Smith,Caguas
+309.96000000000004,7369,Mary,Smith,Caguas
+1159.89,1977,Sara,Smith,"Los Angeles"
+1029.96,4306,Janice,Griffin,Norfolk
+1839.91,3342,Mary,Cobb,"Rio Grande"
+1169.83,6213,Michael,Richardson,"Rock Hill"
+709.9200000000001,11821,Mary,Harris,Bronx
+2384.64,4539,Jacqueline,James,Houston
+409.86,6915,Robert,Whitney,Caguas
+159.96,11425,Kathy,Norman,Detroit
+1529.8300000000002,2783,Mary,Willis,Middletown
+699.96,11035,Evelyn,Fritz,Manati
+449.96000000000004,5535,Andrea,Cowan,Caguas
+749.91,4670,Sharon,Bailey,Caguas
+1435.8700000000001,908,Mary,Smith,Caguas
+2135.77,1233,Mary,Sims,Winnetka
+1149.89,10055,Mary,Mooney,"Las Vegas"
+769.8900000000001,1783,Mary,Cooper,Caguas
+1539.8600000000001,7758,Joyce,Howe,Woodbridge
+599.96,11278,Brandon,Smith,Caguas
+1907.7100000000003,11529,Mary,Hernandez,"West Covina"
+374.89,8378,Mary,Smith,Caguas
+1199.94,8052,Pamela,Smith,"La Mesa"
+479.92,3877,John,Mcclure,Caguas
+829.94,9817,Sean,Hall,"Los Angeles"
+1339.89,841,David,Smith,Bronx
+249.94,2689,Matthew,Smith,Caguas
+109.97,2832,Angela,Smith,Honolulu
+1597.8400000000001,7962,Justin,Smith,Caguas
+694.86,10519,Mary,Smith,Caguas
+879.95,8303,Ashley,Smith,"Bell Gardens"
+549.98,4675,Jessica,Smith,Caguas
+1139.92,5218,Timothy,George,"Costa Mesa"
+259.98,10220,Gerald,Mason,Caguas
+119.96,4478,Mary,Shah,"West Jordan"
+1329.8100000000002,9879,Linda,Ibarra,Caguas

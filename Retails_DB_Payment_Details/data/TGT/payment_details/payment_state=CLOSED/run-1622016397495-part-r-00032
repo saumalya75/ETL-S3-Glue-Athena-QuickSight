@@ -1,0 +1,63 @@
+payment_amount,customer_id,first_name,last_name,city
+159.96,6297,Patricia,Contreras,Caguas
+649.86,3948,George,Smith,Caguas
+1424.83,1054,Barbara,Cooley,Chicago
+804.9100000000001,6455,Ethan,Brown,Caguas
+839.9200000000001,953,Mary,Mills,Philadelphia
+1149.94,11866,Mary,Smith,Caguas
+329.95000000000005,11140,Mary,Smith,Anaheim
+79.96,4056,Mary,Smith,Caguas
+1229.94,1780,Larry,Sharp,Caguas
+1169.6999999999998,2126,James,Pollard,Caguas
+841.8800000000001,7003,Harry,Patrick,Caguas
+379.96000000000004,7903,Harold,Jenkins,Fullerton
+419.97,10017,John,Smith,Burnsville
+554.9000000000001,1564,Mary,Davenport,Brooklyn
+999.96,5678,Nathan,Smith,Palmdale
+634.97,11004,Elizabeth,Smith,Baltimore
+369.95000000000005,371,Adam,Marquez,"San Antonio"
+539.91,3405,Bruce,Paul,Caguas
+579.9100000000001,2919,Douglas,Burgess,Raleigh
+2249.7200000000003,5493,Mary,Cochran,"Jersey City"
+1019.94,3936,Mary,Fernandez,Caguas
+799.89,11968,Emily,Winters,Caguas
+839.9300000000001,1903,Mary,Sullivan,Blacksburg
+299.98,5026,Christian,Smith,Jonesboro
+529.97,7402,Joseph,Frye,Caguas
+479.90999999999997,10233,Mary,Bennett,"Far Rockaway"
+549.85,7109,Mary,Torres,Chicago
+549.94,9178,Sharon,Fowler,"New Orleans"
+699.96,2391,Mary,Taylor,Westland
+1799.8200000000002,5513,Mary,Smith,Caguas
+669.84,11525,Mary,Williams,Brooklyn
+699.89,1317,Robert,Smith,"Lake Forest"
+1229.8700000000001,2975,Amy,Smith,Tempe
+199.98,12415,Joyce,Smith,Caguas
+639.94,10472,Margaret,Cook,Bakersfield
+899.77,5302,Betty,Smith,Medford
+999.8600000000001,8155,Mary,Zhang,Caguas
+199.99,10199,Susan,Rhodes,Miami
+451.95000000000005,12161,Mary,Smith,Yuma
+299.95,1115,Henry,Smith,Caguas
+59.96,2259,Mary,Knapp,Bronx
+809.9,2457,Carl,Mercer,Caguas
+1179.88,9314,Olivia,Smith,"Chula Vista"
+150.0,10764,Janet,Mccoy,Caguas
+699.9300000000001,575,Mary,Smith,"Rancho Cucamonga"
+699.85,2592,Kyle,Edwards,"San Marcos"
+1974.8000000000002,9379,Mary,Smith,"Daly City"
+789.9200000000001,5944,Stephen,Smith,Elmhurst
+299.98,9831,Daniel,Smith,Hagerstown
+779.97,7316,Marilyn,Wu,Baytown
+1611.8300000000002,1277,Patrick,Bishop,Beloit
+59.99,6253,Mary,Peterson,Caguas
+889.9000000000001,10079,Daniel,Suarez,Apex
+1119.89,8692,Vincent,Smith,Summerville
+399.98,3641,Thomas,Smith,Miami
+679.87,7187,Karen,Smith,Apex
+229.98000000000002,5359,Raymond,Wu,Annapolis
+399.90999999999997,1522,Mary,Yates,Stamford
+249.9,3682,Emily,Romero,Philadelphia
+959.95,8588,Ronald,Smith,"Salt Lake City"
+609.88,5211,Brian,Compton,"New Brunswick"
+1529.75,9928,Mary,Smith,Aurora

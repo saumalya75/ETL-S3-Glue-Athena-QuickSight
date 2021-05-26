@@ -1,0 +1,11 @@
+payment_amount,customer_id,first_name,last_name,city
+100.0,4861,Rebecca,Smith,Caguas
+31.98,9367,Ryan,Smith,"San Benito"
+469.96000000000004,6747,Kathy,Simpson,"San Diego"
+432.97,6486,Mary,Smith,Aurora
+639.9000000000001,10854,Mary,Coleman,"Diamond Bar"
+479.94,7430,Wayne,Smith,Caguas
+231.96,8764,Mary,Curtis,Peoria
+1079.95,11294,Phillip,Brown,Caguas
+1119.93,5104,Kevin,Raymond,"West New York"
+449.91999999999996,7537,Stephen,Lee,"San Antonio"
