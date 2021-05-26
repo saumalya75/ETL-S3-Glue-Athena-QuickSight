@@ -1,0 +1,59 @@
+payment_amount,customer_id,first_name,last_name,city
+129.99,10658,Mary,Smith,Caguas
+799.96,8224,Edward,Chang,Caguas
+954.94,4066,Diana,Cordova,Bronx
+2709.8199999999997,884,Mary,Smith,Florissant
+2759.7500000000005,1865,Mary,Romero,Detroit
+1599.74,2602,Jacob,Smith,"Long Beach"
+555.87,12136,Mary,Smith,"Los Angeles"
+319.92,1944,Mary,Smith,"Crystal Lake"
+1280.85,2403,Christopher,Hall,Philadelphia
+839.88,8701,Linda,Green,Troy
+559.96,888,Mary,Smith,"Los Angeles"
+997.94,9287,Deborah,Smith,Tucson
+1409.8000000000002,10700,John,Price,Caguas
+819.9000000000001,4236,Sandra,Monroe,Caguas
+579.9200000000001,10563,Mary,Smith,Hollywood
+609.9300000000001,5602,Mary,Parrish,Caguas
+549.9200000000001,6694,John,Evans,Caguas
+129.99,9140,Jessica,Smith,Caguas
+729.96,5504,Mary,Brown,Caguas
+879.9200000000001,4694,Mary,Rivera,"Del Rio"
+489.95000000000005,12372,Rachel,Smith,Caguas
+1199.83,3188,Madison,Ray,Caguas
+519.96,2747,Nicholas,Berry,Caguas
+739.86,3415,Frances,Gomez,"Daly City"
+1604.8100000000002,2876,Maria,Smith,Caguas
+449.95,8545,Emily,Bryant,Opelousas
+941.9100000000001,3793,Janet,Best,Caguas
+109.97,9931,Mary,Owens,Caguas
+109.99,1569,Jesse,Hutchinson,"San Diego"
+995.8700000000001,6915,Robert,Whitney,Caguas
+889.84,1342,Laura,Savage,"Saint Peters"
+763.9200000000001,3377,Ralph,Smith,Columbia
+699.98,2233,Jack,Duke,Caguas
+449.82,6327,Mary,Coleman,Caguas
+749.98,10694,Mary,Dunlap,Caguas
+199.92,8639,Mary,Smith,Caguas
+1487.75,6109,Zachary,Tate,Caguas
+1079.95,5026,Christian,Smith,Jonesboro
+109.97,4685,Tyler,Holt,Caguas
+1099.92,6817,Mary,Garrett,Zanesville
+1514.9,3827,Mary,Smith,Caguas
+869.84,10649,Helen,Gonzalez,Caguas
+79.98,456,Douglas,Turner,Caguas
+399.98,5473,Randy,Smith,Caguas
+399.98,11270,Vincent,Harris,Brooklyn
+597.95,7605,Henry,Roman,"San Marcos"
+379.96000000000004,7407,Diane,Kim,Caguas
+199.99,8251,Mary,Ross,Jackson
+249.9,10817,Mary,Warren,Miami
+1629.7900000000002,2255,Cheryl,Kline,Philadelphia
+799.8800000000001,9167,Mary,Smith,Philadelphia
+949.94,10536,Michelle,Massey,Medford
+659.96,5106,Dylan,Rivera,Atlanta
+459.90999999999997,3423,Mary,Smith,Caguas
+899.71,9345,Mary,Branch,Aurora
+999.9000000000001,2116,Daniel,Smith,"New Brunswick"
+1653.8600000000001,5715,Kelly,Smith,Caguas
+1519.7700000000002,8865,Kevin,Frederick,Philadelphia

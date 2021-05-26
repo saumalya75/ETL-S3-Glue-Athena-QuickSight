@@ -1,0 +1,19 @@
+payment_amount,customer_id,first_name,last_name,city
+199.99,3223,Thomas,White,Caguas
+629.97,3844,Justin,Haynes,Hampton
+199.99,8036,Howard,Smith,"San Francisco"
+449.95,11927,Mary,Harris,Caguas
+964.88,31,Mary,Byrd,Albuquerque
+699.9200000000001,11631,Jennifer,Mckenzie,Caguas
+879.9300000000001,160,Ashley,Smith,Brooklyn
+675.9200000000001,8225,Nathan,Smith,Encinitas
+1269.8600000000001,4203,Eric,Nolan,Portland
+1079.94,12317,Shawn,Cross,Caguas
+769.86,3297,Bryan,Lewis,"Moreno Valley"
+479.96000000000004,3490,Mary,Smith,Caguas
+669.9300000000001,6845,Mary,Smith,"Los Angeles"
+49.98,11804,Mary,Berger,Caguas
+499.9,12028,Steven,Smith,Newark
+329.90999999999997,7591,Frances,Stanley,Caguas
+393.97,8185,Ronald,Powell,Folsom
+2659.8,9002,Mary,Mullins,"New York"

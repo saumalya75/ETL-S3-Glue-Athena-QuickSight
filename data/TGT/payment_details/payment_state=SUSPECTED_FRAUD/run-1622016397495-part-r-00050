@@ -1,0 +1,20 @@
+payment_amount,customer_id,first_name,last_name,city
+679.8800000000001,7128,Randy,Smith,Gardena
+399.99,10657,Bryan,Jackson,Anaheim
+329.99,11967,Mary,Beard,"Daly City"
+879.9100000000001,10438,Barbara,Johnston,"North Richland Hills"
+519.96,7113,Mary,Shepherd,"North Richland Hills"
+999.95,11606,Mary,Cisneros,Apex
+1659.88,12306,Juan,Smith,"Goose Creek"
+459.95,2094,Mary,Smith,Portland
+59.97,12335,Mary,Riley,Knoxville
+1379.84,6060,Michael,Smith,"San Diego"
+1379.8700000000001,8949,Mary,Thompson,Caguas
+369.98,3574,Mary,Smith,"Salt Lake City"
+179.97,9019,Carol,Davila,Caguas
+459.93,2833,Eric,Vega,Caguas
+845.8,12077,Thomas,Garcia,Caguas
+49.98,11482,Mary,Smith,Caguas
+234.93,11942,Mary,Bernard,Caguas
+649.96,12192,Mary,Carlson,"San Diego"
+139.95,10548,Mary,Guerrero,Caguas

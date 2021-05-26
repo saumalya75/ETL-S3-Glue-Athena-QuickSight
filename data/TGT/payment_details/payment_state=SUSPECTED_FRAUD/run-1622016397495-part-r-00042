@@ -1,0 +1,17 @@
+payment_amount,customer_id,first_name,last_name,city
+100.0,1588,Mary,Smith,Caguas
+159.99,6049,Patricia,Smith,Florissant
+599.97,2873,Joyce,Padilla,Caguas
+354.9,10307,Bobby,Miller,Tustin
+459.97,9197,Mary,Sutton,Caguas
+849.88,3878,Barbara,Smith,Orlando
+749.95,2667,Tammy,Smith,"Sun Valley"
+369.95000000000005,345,John,Howard,Chicago
+499.93,9842,Mary,Smith,Caguas
+729.95,3398,James,Hardin,Plano
+199.99,4718,Stephanie,Wagner,Caguas
+119.97,4682,Marilyn,Morales,Caguas
+829.9100000000001,8626,Scott,Vega,Indianapolis
+199.99,6474,Madison,Smith,Caguas
+559.86,8102,David,Smith,Memphis
+849.95,2917,Kyle,Smith,"San Jose"

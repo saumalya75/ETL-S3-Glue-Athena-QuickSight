@@ -1,0 +1,17 @@
+payment_amount,customer_id,first_name,last_name,city
+239.96,5661,Christopher,Smith,Indio
+848.97,5824,James,Smith,Caguas
+1077.92,6305,Mary,Smith,"Mount Pleasant"
+599.94,5797,Roy,Smith,"La Mirada"
+200.0,2382,Mary,Holloway,Bronx
+369.96,8198,Mary,Frank,"New Orleans"
+119.98,4297,Mary,Torres,Caguas
+399.98,5717,Robert,Andrews,Bakersfield
+734.9000000000001,10250,Martha,Smith,Philadelphia
+319.9,12338,Michael,Hall,Phoenix
+699.9,11046,Scott,Davidson,Hialeah
+483.89000000000004,10214,Raymond,Smith,Caguas
+1249.8899999999999,9669,Samantha,Smith,Cleveland
+189.98000000000002,7115,Brandon,Willis,Caguas
+309.96000000000004,8906,Mary,Hurst,"New York"
+1049.96,4675,Jessica,Smith,Caguas
