@@ -1,0 +1,57 @@
+payment_amount,customer_id,first_name,last_name,city
+450.0,4219,Linda,Smith,Hamilton
+231.98,7864,Alice,Smith,Caguas
+749.94,11635,Mary,Smith,Caguas
+699.9,1684,Anna,Smith,Caguas
+1884.8300000000002,4456,Evelyn,Spencer,Miami
+1499.88,10539,Mary,Copeland,Hollister
+1654.88,8422,Wayne,Crawford,Caguas
+1499.82,10268,Amy,Washington,Murfreesboro
+599.98,1373,Mary,Smith,Caguas
+1309.93,9898,Mary,Moon,Pasadena
+39.99,11788,Dennis,Marsh,Florissant
+829.94,10248,Charles,Davis,Newburgh
+359.98,10274,Scott,Bray,Caguas
+559.96,9878,Mary,Pena,"Van Nuys"
+469.89,4224,Mary,Smith,Brooklyn
+399.94,6466,Susan,Meyer,Caguas
+1549.7900000000002,8571,Jason,Nunez,"Fort Lauderdale"
+1049.8700000000001,3945,Lauren,Perez,Portland
+1279.8100000000002,440,Mary,Skinner,Brooklyn
+489.93,9191,Marie,Smith,Caguas
+679.96,9640,Andrea,Leonard,Detroit
+429.93,4472,Mary,Smith,Caguas
+734.89,9125,Mary,Smith,Caguas
+259.98,8249,Mary,Nolan,Caguas
+1239.88,1951,Joseph,Hutchinson,Caguas
+249.9,356,Roger,Smith,Catonsville
+159.99,2743,Mary,Smith,Caguas
+1089.89,11525,Mary,Williams,Brooklyn
+1149.8600000000001,1596,John,Hammond,Caguas
+299.98,10893,Lisa,Smith,Riverside
+1179.93,12052,Mary,Burke,Caguas
+739.87,1926,Mary,Williams,"Los Angeles"
+379.98,161,Mary,Smith,Hialeah
+969.85,1791,Brian,Smith,Caguas
+99.96,10963,Amber,Smith,Meridian
+449.92,4715,Kenneth,Smith,Plainfield
+369.95000000000005,10420,Mary,Petty,Plainfield
+749.97,10593,Mary,Phillips,Caguas
+1039.8400000000001,10098,Angela,Delacruz,Phoenix
+519.96,671,Anthony,Reyes,Tucson
+1199.88,8899,Cynthia,Brown,"San Jose"
+599.94,4851,Kimberly,Mcgrath,Caguas
+329.98,11589,Mary,Anderson,Kent
+279.93,4747,Janice,Thomas,Chicago
+399.98,2514,Mary,Luna,Caguas
+2255.84,4611,Dorothy,Smith,Caguas
+249.9,10228,Mark,Rios,"Bay Shore"
+1309.8000000000002,1704,Tammy,Sandoval,Caguas
+429.98,7122,Teresa,Carlson,"New York"
+299.97,9555,Sandra,Smith,"Orange Park"
+1359.89,10912,Mary,Smith,Caguas
+629.95,7292,Jonathan,Hernandez,Caguas
+559.9200000000001,2771,Mary,Smith,Caguas
+529.89,4454,Robert,Smith,"San Ramon"
+71.96,2766,Mary,Smith,Caguas
+549.9200000000001,3800,Shawn,Smith,Germantown

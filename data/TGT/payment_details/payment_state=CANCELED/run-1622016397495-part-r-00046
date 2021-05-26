@@ -1,0 +1,17 @@
+payment_amount,customer_id,first_name,last_name,city
+549.96,4439,Mary,Smith,Billings
+659.86,11366,Catherine,Weiss,"Los Angeles"
+324.98,4479,Billy,Mooney,Caguas
+719.9100000000001,4335,Mary,Smith,Caguas
+819.9,4595,Christian,Smith,"San Diego"
+399.96,4353,Mary,Sutton,Clementon
+551.96,8572,Victoria,Smith,Caguas
+589.95,10993,Mary,Smith,"La Habra"
+949.85,5179,Robert,Smith,Irwin
+769.9300000000001,11431,Willie,Sanders,Sacramento
+779.85,11783,Maria,Smith,"Highland Park"
+719.9100000000001,4149,Mary,Smith,Ithaca
+1319.8300000000002,9083,Mary,Frank,Bayamon
+199.92,3016,Mary,Smith,Denver
+744.8800000000001,9380,Ryan,Carson,"South El Monte"
+899.9100000000001,4245,Steven,Smith,Columbia

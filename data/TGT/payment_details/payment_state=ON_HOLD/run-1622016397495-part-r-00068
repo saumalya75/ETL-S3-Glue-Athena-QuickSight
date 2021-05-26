@@ -1,0 +1,42 @@
+payment_amount,customer_id,first_name,last_name,city
+859.88,2329,Mary,Smith,Valrico
+200.0,789,Mary,Martinez,"San Diego"
+299.95,4282,Mary,Smith,Lancaster
+809.89,3741,Joseph,Johnson,Elyria
+469.98,2198,Thomas,Friedman,"Fort Lauderdale"
+879.89,10653,Mary,Smith,Caguas
+259.90999999999997,5527,Joshua,Smith,Sacramento
+99.97999999999999,1870,Tiffany,Greer,Amarillo
+129.99,3751,Walter,Becker,"Jersey City"
+869.9200000000001,11266,Mary,Smith,Caguas
+559.9300000000001,7845,Walter,Marshall,Ontario
+555.9200000000001,1807,Mary,Curtis,Caguas
+129.99,9466,Mary,Smith,Memphis
+329.93,5546,Jeremy,Smith,Caguas
+609.94,11873,Joe,Collier,Caguas
+1679.8300000000002,6788,Mary,Allen,"Lake Forest"
+749.9,4091,Doris,Smith,"New York"
+829.9200000000001,2362,Samantha,Smith,Placentia
+130.0,11732,Mary,Johnson,Caguas
+1149.92,7545,Christopher,Roberts,Caguas
+299.95,8762,Mary,Smith,"San Francisco"
+1409.94,7566,Mary,Smith,Caguas
+399.98,480,Mary,Smith,Austin
+499.98,6863,Joshua,Smith,Memphis
+299.98,10493,Frances,Taylor,Chicago
+179.94,5369,Mary,Short,"North Richland Hills"
+839.9300000000001,6567,Jeffrey,Smith,Fontana
+199.92,6494,Brittany,Smith,Arecibo
+129.99,7438,Donald,Smith,Katy
+549.88,3905,Denise,Smith,"South San Francisco"
+149.94,3337,Jeffrey,Smith,Baltimore
+50.0,7597,Catherine,Smith,Paramount
+249.97,6672,Mary,Conrad,"Fort Lauderdale"
+299.95,675,Mary,Mata,Greensboro
+739.79,4943,Paul,Sosa,Caguas
+899.9300000000001,4430,Grace,Smith,Detroit
+129.99,12262,Michael,Gray,Caguas
+699.9300000000001,2683,Mary,Gallegos,Caguas
+1179.89,32,Alice,Smith,Caguas
+279.99,7039,Samuel,Rodriguez,Caguas
+829.95,4419,Elizabeth,Fernandez,Fremont

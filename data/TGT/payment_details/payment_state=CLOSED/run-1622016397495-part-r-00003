@@ -1,0 +1,60 @@
+payment_amount,customer_id,first_name,last_name,city
+1409.9,5570,Mary,Smith,"Mission Viejo"
+1199.83,4904,Bruce,Smith,"Jersey City"
+549.98,7035,Mary,Ayers,Caguas
+399.90999999999997,7935,Mary,Williams,Pawtucket
+399.91,444,Walter,Lambert,Sunnyvale
+250.0,4045,Mary,Neal,Caguas
+1379.94,2910,Timothy,Curtis,"Mount Prospect"
+329.97,1128,Mary,Chung,Caguas
+599.98,3882,Joshua,Campbell,Greensburg
+1049.8600000000001,9002,Mary,Mullins,"New York"
+1009.95,7221,Kelly,Wyatt,Caguas
+799.8000000000001,5990,Mary,Summers,Mayaguez
+1028.88,10187,Victoria,Lane,Caguas
+839.9300000000001,432,Bruce,Mcconnell,Caguas
+1079.93,586,Patricia,Jefferson,"San Marcos"
+999.9300000000001,4557,David,Sutton,Caguas
+1129.94,10255,Shirley,Smith,Caguas
+1599.83,8697,Gerald,Smith,Caguas
+879.82,6173,Amanda,Lewis,Caguas
+929.88,1547,Henry,Smith,Phoenix
+1169.9,5568,Eric,Smith,Caguas
+719.8599999999999,4875,Edward,Peters,Caguas
+1549.8600000000001,2228,Carolyn,Woods,Aurora
+969.94,787,Amanda,Ochoa,Piscataway
+799.9300000000001,10733,Mary,Smith,Caguas
+1069.83,11784,Mary,Cunningham,Caguas
+829.9200000000001,3325,Danielle,Rios,Caguas
+499.97,4819,Mary,Porter,Caguas
+699.9000000000001,379,David,Briggs,Wyandotte
+129.99,4581,Jessica,May,Caguas
+789.9399999999999,9214,Mary,Smith,Philadelphia
+531.89,194,Mary,Bates,Caguas
+649.9100000000001,9916,Joshua,Smith,Caguas
+469.89,2756,Bryan,Simon,Bakersfield
+779.9100000000001,12021,Gregory,Gomez,Caguas
+174.95,5158,Ashley,Smith,Bronx
+1649.8899999999999,4914,Mary,Curtis,Caguas
+1899.67,11602,Mary,Smith,Mechanicsburg
+749.95,2815,Justin,Patterson,Lakewood
+899.94,7152,Mary,Gilbert,"Daly City"
+59.99,8791,Beverly,Ali,Caguas
+1869.89,1498,Peter,Bray,Houston
+939.8900000000001,8300,Mary,Reynolds,"Santa Ana"
+939.8800000000001,576,Arthur,Fisher,Houston
+399.98,9371,Mary,Patterson,Meridian
+429.97,7048,Mary,Smith,"Salt Lake City"
+129.99,10251,Mary,Nguyen,Washington
+279.99,11917,Matthew,Brooks,Caguas
+100.0,11692,Mary,Weber,Dayton
+1049.93,8863,Henry,Smith,Washington
+899.98,3364,Mary,Ramos,Martinez
+799.94,806,Mary,Wells,Caguas
+1099.91,4035,Mary,Mullen,Dallas
+149.94,10732,Melissa,Robertson,Hickory
+499.94,5977,Amanda,Shaffer,Montebello
+979.9200000000001,10610,Nancy,Bryant,Caguas
+679.83,12176,Mary,Martin,Caguas
+159.95,8988,Mary,Smith,Pekin
+829.9300000000001,5066,Mary,Jones,Caguas

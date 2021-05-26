@@ -1,0 +1,13 @@
+payment_amount,customer_id,first_name,last_name,city
+299.95,4319,Melissa,Smith,Tampa
+1149.83,1102,Lisa,Hensley,Caguas
+299.98,10353,Harold,Taylor,Caguas
+529.95,6932,Evelyn,Herring,Brooklyn
+799.85,4408,Anna,Smith,Caguas
+329.98,3934,Joseph,Smith,Algonquin
+199.99,3057,Mary,Smith,Chicago
+839.8800000000001,6736,Timothy,Guzman,"San Diego"
+529.97,12133,Nicholas,Vazquez,Mililani
+249.9,8724,Michael,House,Caguas
+1759.9,9967,Linda,Herman,Caguas
+1069.8400000000001,10279,David,Smith,"Mission Viejo"

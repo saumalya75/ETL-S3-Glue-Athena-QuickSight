@@ -1,0 +1,108 @@
+payment_amount,customer_id,first_name,last_name,city
+399.98,936,Mary,Smith,Winnetka
+1634.7600000000002,3745,Kimberly,Smith,Caguas
+1919.8700000000001,9964,Mary,Smith,Frankfort
+439.97,10063,Julia,Lopez,Caguas
+859.9,11251,Pamela,Smith,"Daly City"
+424.97,1626,Wayne,Gomez,"Garden Grove"
+1049.9,3137,Elizabeth,Smith,Oxnard
+2079.82,9609,Mary,Lucero,Houston
+199.99,3867,Mary,Frazier,Caguas
+1203.8200000000002,9032,Lauren,Munoz,Caguas
+259.98,10509,Mary,Smith,Columbus
+489.88,939,Mary,Todd,Caguas
+2439.7799999999993,8220,Michael,Smith,Orlando
+2119.78,8572,Victoria,Smith,Caguas
+1019.81,6249,Mary,Andrade,Middletown
+239.96,5501,Samuel,White,Caguas
+1149.79,10191,Victoria,Gross,Caguas
+984.8600000000001,170,Mary,Smith,Broomfield
+1299.83,1946,Diane,Smith,Caguas
+2325.67,5239,Johnny,Brown,"San Diego"
+1099.87,1259,John,Smith,Everett
+999.81,5247,Mary,Hunter,Caguas
+604.89,4904,Bruce,Smith,"Jersey City"
+1149.8100000000002,10188,Mary,Roach,"Palo Alto"
+3479.6,8071,Gary,Baker,Plano
+831.86,10663,Nathan,Rodriguez,Caguas
+2309.6499999999996,12075,Aaron,Carr,Azusa
+684.9300000000001,11805,Anthony,Smith,Corona
+2359.7799999999997,2065,Wayne,Smith,Caguas
+1749.78,9798,Brittany,French,Houston
+649.96,8905,Donna,Smith,Augusta
+819.95,9877,Shawn,Moreno,Fresno
+759.94,4503,Mary,Trujillo,"Saint Paul"
+1859.7500000000002,9607,Mary,Smith,Caguas
+1819.76,11048,Randy,Ball,Caguas
+2364.71,1236,Virginia,Robertson,"Chapel Hill"
+579.95,867,Catherine,Smith,Caguas
+1299.9,6296,Mary,Smith,Bakersfield
+2809.64,6474,Madison,Smith,Caguas
+1164.84,9246,Mary,Richmond,Greensboro
+1139.88,9849,Mary,Smith,Dallas
+129.99,8408,Patrick,Smith,Columbus
+974.84,6454,Kathleen,Smith,Albuquerque
+1149.8600000000001,1502,Alan,Santos,Caguas
+3118.7,9459,Stephen,Bond,"San Francisco"
+2549.69,2375,Mary,Smith,Bronx
+129.99,6419,Mary,Smith,"San Pedro"
+1739.8100000000002,7481,Lori,Lawson,Caguas
+149.94,7732,Jerry,Smith,Bronx
+569.87,9892,David,Norris,Louisville
+2549.7299999999996,6253,Mary,Peterson,Caguas
+1219.8600000000001,7892,Michael,Hayes,Dallas
+1177.8000000000002,11311,Julie,White,Chicago
+199.92,7778,Mary,Cross,"Palo Alto"
+2419.7200000000003,11694,Margaret,Rios,Caguas
+199.99,9289,Carolyn,Smith,Honolulu
+809.86,437,Cynthia,Benjamin,Caguas
+2329.6900000000005,2652,Martha,Santiago,Caguas
+729.88,4885,Kenneth,Smith,"Oak Lawn"
+939.8600000000001,2183,Richard,Smith,Caguas
+1999.75,714,Mark,Beltran,Caguas
+559.96,1961,Mary,Holt,Cleveland
+1349.8600000000001,6893,Deborah,Smith,Caguas
+2664.6600000000003,247,Angela,Smith,Caguas
+899.9300000000001,4317,Jean,Sutton,Caguas
+2599.7100000000005,11806,Mildred,Hester,"West Lafayette"
+199.92,8952,Joseph,Brooks,Mission
+919.8700000000001,8105,Mary,Gordon,Mesa
+199.99,12120,Pamela,Smith,"Pompano Beach"
+709.9100000000001,7817,Mary,Smith,"West Lafayette"
+479.92,5467,Mary,Page,Apopka
+849.9200000000001,4620,Carolyn,Bennett,Caguas
+2749.71,11767,Joshua,Huynh,"West Haven"
+1299.93,2170,Nicholas,Smith,Troy
+2169.62,10623,Joshua,Mckenzie,Mililani
+367.93,7323,Sarah,Neal,Caguas
+89.97,8764,Mary,Curtis,Peoria
+349.96000000000004,7126,James,Smith,Caguas
+79.96,4882,Mary,Daniels,Detroit
+2719.6800000000003,11020,Laura,Smith,"Federal Way"
+299.97,3063,John,Roberson,Caguas
+239.96,5494,Rose,Smith,Oceanside
+929.81,6035,Mary,Craig,Caguas
+449.99,4737,Mary,Mendoza,Caguas
+1864.7,8373,Christina,Smith,Lompoc
+1329.92,8624,Theresa,Welch,Miami
+369.95000000000005,7264,Mary,Baker,Fresno
+1299.93,3727,Janet,Espinoza,Caguas
+1539.8100000000002,6120,Mary,Smith,Yonkers
+2737.67,11306,Gerald,Beasley,Miami
+2114.7700000000004,7218,Mary,Nguyen,Brooklyn
+1329.88,2268,Mary,Smith,Marietta
+1099.8700000000001,8036,Howard,Smith,"San Francisco"
+829.8500000000001,9477,Lawrence,Smith,Vista
+3879.4999999999995,2446,Paul,Hamilton,"Pompano Beach"
+2429.75,10056,Ruth,Smith,"Salt Lake City"
+3905.6499999999987,11576,Richard,Andrade,Caguas
+179.97,11620,Ashley,Hill,"Los Angeles"
+709.9000000000001,717,Mary,Camacho,Albuquerque
+1094.81,9666,Mary,Collins,"College Station"
+1009.8700000000001,11402,Angela,Wilkinson,Newark
+629.92,12348,Alan,Smith,Rochester
+1929.69,7963,Mary,Fisher,"New York"
+349.98,6927,Mary,Cohen,Summerville
+951.81,8781,Mary,Chan,Miami
+50.0,7899,Donald,Tran,"Bowling Green"
+447.97,1156,Mary,Terrell,Caguas

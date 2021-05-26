@@ -1,0 +1,66 @@
+payment_amount,customer_id,first_name,last_name,city
+299.97,685,Crystal,Smith,Caguas
+629.9300000000001,9731,Mary,Smith,Baytown
+2104.76,5824,James,Smith,Caguas
+454.93000000000006,610,Mary,Smith,"New York"
+1189.92,295,Julie,Tanner,Caguas
+729.95,2286,Mary,Smith,Baltimore
+1299.88,3316,Mary,Oconnor,Caguas
+50.0,1199,Mary,Smith,Philadelphia
+739.9000000000001,1919,Mary,Middleton,"Fort Worth"
+809.96,6120,Mary,Smith,Yonkers
+909.9300000000001,4683,Mary,Lang,Cerritos
+604.94,7283,Margaret,Carpenter,"West Chester"
+299.98,771,Patricia,Smith,Pawtucket
+203.96,1825,Mary,Obrien,"Van Nuys"
+609.96,329,Samantha,Higgins,Miami
+1279.93,3691,Mary,Campos,Caguas
+2134.51,11694,Margaret,Rios,Caguas
+819.9300000000001,58,Michael,Edwards,Caguas
+1259.93,3021,Nancy,Alvarado,Flushing
+529.97,3235,Lori,Baker,Caguas
+2471.5400000000004,8988,Mary,Smith,Pekin
+119.97,1545,Mary,Smith,Fontana
+779.9200000000001,9394,Nancy,Smith,Fresno
+459.97,12228,Amy,Smith,Caguas
+1099.8600000000001,3406,Mary,Smith,"El Paso"
+1299.91,1452,Jennifer,Smith,Plainfield
+901.9200000000001,11981,Mary,Smith,Baltimore
+1599.8300000000002,10071,Mary,Lawrence,Philadelphia
+1029.92,7893,Lisa,Smith,Porterville
+429.84999999999997,3517,Mary,Russell,Piscataway
+549.94,12110,Lisa,Smith,Caguas
+529.97,7681,Terry,Mcknight,Caguas
+679.88,1521,Christopher,Smith,Hawthorne
+619.9200000000001,11586,Nancy,Wright,"New Orleans"
+1009.79,8686,Dorothy,Higgins,Caguas
+249.98,12402,Mary,Hunt,Caguas
+769.9200000000001,10558,Christine,Smith,Kailua
+409.92,6910,Carol,Smith,Caguas
+709.94,7405,Larry,Bentley,"Mission Viejo"
+119.98,11257,Heather,Chang,Folsom
+309.99,5081,Elizabeth,Kelley,"Oregon City"
+979.86,1995,Janice,James,Caguas
+1774.8700000000001,6476,Julie,Smith,Washington
+759.9200000000001,3306,Mary,Woods,"New York"
+1159.81,4926,Mary,Smith,Bronx
+699.96,6807,Gloria,Grimes,Davis
+299.98,7376,Mary,Smith,Lombard
+1459.8300000000002,7377,Katherine,Rogers,Caguas
+1099.83,6909,Mary,Salinas,Florissant
+119.97,12184,Mary,Ford,Hayward
+1014.88,7278,Mary,Liu,Tucson
+369.90999999999997,12391,Evelyn,Lewis,Caguas
+459.88,5206,Mary,Palmer,"San Diego"
+1599.7600000000002,7095,Amanda,Hogan,Caguas
+1882.7300000000002,1657,Betty,Phillips,Caguas
+499.97,4001,Maria,Nixon,Caguas
+929.89,1987,Brenda,Mccarthy,Caguas
+1304.8600000000001,3047,Barbara,Smith,Caguas
+949.8900000000001,3379,Peter,Smith,"Union City"
+59.99,497,Amanda,Odonnell,Caguas
+829.9200000000001,11902,Catherine,Tucker,Caguas
+979.8800000000001,12251,Mary,Hinton,"Los Angeles"
+949.9300000000001,6408,Kevin,Cooper,Caguas
+1189.8600000000001,8938,Raymond,Gould,Caguas
+399.98,5913,Cynthia,Daniel,Caguas

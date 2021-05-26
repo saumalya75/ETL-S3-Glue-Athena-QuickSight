@@ -1,0 +1,62 @@
+payment_amount,customer_id,first_name,last_name,city
+299.98,3647,Grace,Moore,Cumberland
+399.98,10236,Christopher,Smith,"San Francisco"
+509.95,6075,Mary,Smith,Austin
+574.8000000000001,3202,Emma,Wilson,Caguas
+819.8499999999999,7190,Mary,Mckinney,Caguas
+789.9000000000001,4029,Mary,Roman,Woodbridge
+629.89,5118,Mary,Smith,Caguas
+199.99,8417,Mary,Smith,Houston
+799.9300000000001,8390,Mary,Ritter,"Pompano Beach"
+555.95,2873,Joyce,Padilla,Caguas
+359.9,8718,Mary,Alvarez,Seattle
+1029.75,4009,Mary,Ayers,Elgin
+649.88,10607,Matthew,Romero,Manati
+319.97,627,Robert,Smith,Honolulu
+589.9200000000001,8784,Jonathan,Smith,Caguas
+829.89,5966,Joseph,Stone,Fullerton
+809.86,3358,Anthony,Wright,Caguas
+559.9300000000001,3239,Mary,Smith,Olathe
+1249.77,3437,Mary,Massey,Caguas
+1129.8,2079,Mary,Hunter,Bend
+649.88,9189,Richard,Smith,Caguas
+59.98,365,Shirley,Smith,"Garden Grove"
+100.0,1419,Mary,Black,Brooklyn
+1129.94,2947,Roy,Smith,Hayward
+239.96,3065,Amy,Cummings,Caguas
+999.88,9005,Thomas,Martin,Elgin
+319.93,7829,Raymond,Smith,Milford
+129.99,1994,Mary,Cox,Cleveland
+699.94,947,Mary,Henry,Caguas
+1029.93,8633,Andrea,Ball,Greenville
+469.91,1807,Mary,Curtis,Caguas
+903.9200000000001,9084,Jack,Smith,Jonesboro
+499.98,7626,Mary,Jones,Caguas
+1349.84,8869,Thomas,Lambert,Caguas
+1939.7700000000002,9507,Mary,Mendoza,"Simi Valley"
+150.0,1413,Mary,Mcguire,Chicago
+859.96,7183,Anna,Smith,"Hacienda Heights"
+1911.74,11350,Brittany,Lynch,Dearborn
+339.96000000000004,11828,Dorothy,Merritt,Cleveland
+1079.92,7594,Mary,Smith,"Wilkes Barre"
+66.0,2345,Mary,Smith,"New York"
+939.9000000000001,6812,Sharon,Smith,Cleveland
+599.88,8270,Steven,Moran,Caguas
+1097.91,1492,Gerald,Patel,Montebello
+699.96,5001,Ann,Waller,Caguas
+929.9300000000001,7511,Mary,Park,Miami
+759.94,5271,Mary,Hall,"North Hills"
+369.88,1562,Mary,Dickerson,Orlando
+229.95,2407,Lisa,Smith,"Lake Forest"
+649.89,5339,Mary,Moore,Caguas
+699.96,12152,Mary,Smith,Harlingen
+309.86,3880,Mary,Garcia,Bakersfield
+809.9200000000001,6533,Patrick,Morse,Caguas
+659.9100000000001,10857,John,Smith,Bensalem
+679.91,9884,Maria,Dorsey,Edison
+484.86999999999995,10208,Roger,Reeves,Caguas
+899.9000000000001,638,Michael,Johnson,Bridgeton
+689.9300000000001,9864,Mary,Mullins,"Carol Stream"
+999.95,5506,Gregory,Smith,Caguas
+351.96000000000004,7063,Mary,Smith,Brownsville
+419.92,12275,Mary,Dudley,Modesto
